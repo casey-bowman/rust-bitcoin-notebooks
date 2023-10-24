@@ -1,0 +1,5 @@
+env
+.idea
+.ipynb_checkpoints
+sparrow/**/*
+nigiri-datadir

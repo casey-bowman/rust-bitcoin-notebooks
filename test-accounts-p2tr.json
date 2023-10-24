@@ -1,0 +1,1294 @@
+{
+    "alice": [
+        {
+            "mnemonic": "brain case hire edit submit cup spend sign crystal measure gadget install"
+        },
+        {
+            "regtest": {
+                "master": {
+                    "xpub": "tpubD6NzVbkrYhZ4XtBvjZPv3K4Y2aJ1fniT5Xt1rXkyQP2tZdWaJFHex3o6XmKRJWA5FVBAavmCWJRWsE3kA7pCCVENieSSqkte8fNxUfzb9E8",
+                    "pubKeyFingerprint": "4e6f8ac3",
+                    "wif": "cUyNCvwSLrRV7z6Q2PuZJXxXNNnaPpzyQkWW9fYprvMsNyEoRCgQ",
+                    "xprv": "tprv8ZgxMBicQKsPeRA8qujKduQRTYn5WTXYWEHEa1ifz7EVj9FofrU4mZBEMfJAZoUmCE3xWe2Ms8enPtBhHgMevwvHajRTbhB6EQr3RAGa5xw"
+                },
+                "channel-factory": {
+                    "xpub": "tpubDDV66WyYEyxdeHCFp2ij6X8KmczQGSsqCoFRJA7pwynVqurPdCfhPbHeXLxoXgkmqZkb2aweccZk4ZcVfiVV36cVuzemeWvKAu3HYcNAebk",
+                    "path": "m/86'/1'/0'",
+                    "addresses": [
+                        {
+                            "wif": "cUBBjXs4dpmbcoo18dNGe1VPCXp49EfNWwu64CBtBQzgKKFdBg4R",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/0",
+                            "privateKey": "tprv8jjn96Un8w6gscagTdR93NwquQf3Braj2RtNiN3KB7tbFEGTQuAwJ1bczmbhWm7yYPibVFxPRzdxev4SYCGMehVsfr8HbDedKum7yHhuqXf",
+                            "pubkey": "03d32e69a4c0096a6cb8569e8f27a0753b7d57956e6a69898111187e3d61cdee08",
+                            "pubKeyHash": "f789c62f2ed4eb2607ef6a5f540aebfe04d1fdec",
+                            "receive address": "bcrt1pw35dls0zluussp9ym7j25dxczvp20v73m4mye7yz5vxd5u4f4ccq3hz2g5",
+                            "internalPubkey": "d32e69a4c0096a6cb8569e8f27a0753b7d57956e6a69898111187e3d61cdee08",
+                            "internalPubkeyBech32m": "16vhxnfxqp94xewzkn68j0gr48d7409twdf5cnqg3rplr6cwdacyqhg3hjj"
+                        },
+                        {
+                            "wif": "cMqmy8t2oG9BsZtE7F5DcmanDrAb6rqNUpcgZ9tSrBagFieGVkXJ",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/0",
+                            "privateKey": "tprv8jdYdDvPPFdo5u2Lui6rUHXcd9P8UKXbf5j3VZVTCL4r6DMKBMye6jSBCGc6egQbEAZbaYTnzw86MnNxqsUj4k859ZuWc7A8rajfbT971D3",
+                            "pubkey": "028cd85768d52df0ebb72dd7a2d346a23c6551ee2292dae6ababd2342ea5d56399",
+                            "pubKeyHash": "17a9e1030a6721e117b51badb92ee5b97ba80993",
+                            "change address": "bcrt1ptkzxr3hmxru8xfpqje83mjwenj3lm484rejcuptch7w065ef3zns9wvwzh",
+                            "internalPubkey": "8cd85768d52df0ebb72dd7a2d346a23c6551ee2292dae6ababd2342ea5d56399",
+                            "internalPubkeyBech32m": "13nv9w6x49hcwhded673dx34z83j4rm3zjtdwd2at6g6zafw4vwvsl7ta45"
+                        },
+                        {
+                            "wif": "cMf4vKYguax2HUiFM5Qs9C1rRpTdKpJpenkPNt8yiufmWq6M72fT",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/1",
+                            "privateKey": "tprv8jjn96Un8w6gwprZh9jxxkoB9Mvu1EeGfjzYyqQ65e1mJcGuaaXrcAZ5anGrcTsQMv6UCxuubQQUZRQax5cbL7Mc1Sj9ViW4gMtjiUn3SHJ",
+                            "pubkey": "0264f32b43ad6a803a75a7a7e6e4ef3255a836a55403f6987e93a72ce03c0a7879",
+                            "pubKeyHash": "c3125dd20de15e552f9586f06dc3d4ffcf5c6d35",
+                            "receive address": "bcrt1pvmrgtfmmtujdzyvd4k5v003p996dq3tkl7e7dpcucjze8qm0schsu2qy0f",
+                            "internalPubkey": "64f32b43ad6a803a75a7a7e6e4ef3255a836a55403f6987e93a72ce03c0a7879",
+                            "internalPubkeyBech32m": "1vnejksadd2qr5ad85lnwfmej2k5rdf25q0mfsl5n5ukwq0q20puspx9ga9"
+                        },
+                        {
+                            "wif": "cRVaxjrmquKrPdnYB5imt8gV6kuij414yVuVqqTmV1pTCUXTrdQk",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/1",
+                            "privateKey": "tprv8jdYdDvPPFdo7QF131u2mSAnXDRChdvSEu4s2f4QmfGzJ56FyGhgGdxiDBFKYYAbYmxwUEFBZwJY71iDAmghzDM7SuXqq5pUyCzevfYLNbF",
+                            "pubkey": "024e1fb41e94c3bb3f8ea68d4918d775e2c0b4e09610c125871723b287d5edef9f",
+                            "pubKeyHash": "b3b828d049669a5f31986417ff153d53c051d3eb",
+                            "change address": "bcrt1pp3y2ufdhysreuykl3j4u9ldluxrhl7tgaensp2qj3hgkhkjslr5scq58ds",
+                            "internalPubkey": "4e1fb41e94c3bb3f8ea68d4918d775e2c0b4e09610c125871723b287d5edef9f",
+                            "internalPubkeyBech32m": "1fc0mg855cwanlr4x34y334m4utqtfcykzrqjtpchyweg040da70s0nkhrw"
+                        },
+                        {
+                            "wif": "cQuXhGUweBjnf63dGpSyxZAABrnDvR1T5SzzGqByTsk5GUivDsYV",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/2",
+                            "privateKey": "tprv8jjn96Un8w6gyHwoCq1GcHP7Qi8KkTFTEqomJgi4StA8R19AvosujVvz3S7kbRSf6DsbPN8j1vN6djtnDygFigDU1mPV5cBwpxp6VMFQgmo",
+                            "pubkey": "02aa5ba7cd95236f4aefaf50be6c6bdce6fc70cbcc0c5935e1d92e8870867778f2",
+                            "pubKeyHash": "98ff658700c3b7e203d50f5dc59b80b729f3343c",
+                            "receive address": "bcrt1p8f90aqcrmrdaec02j7ws3fwkg04k4mdr0gx56tz5tqmfjj6uz96s4lmrfe",
+                            "internalPubkey": "aa5ba7cd95236f4aefaf50be6c6bdce6fc70cbcc0c5935e1d92e8870867778f2",
+                            "internalPubkeyBech32m": "14fd60nv4ydh54ma02zlxc67uum78pj7vp3vntcwe96y8ppnh0reqrlwcys"
+                        },
+                        {
+                            "wif": "cVvCXvk2oULmKAXZQzucMyQHEvAapAYpcbR3mV2DrUUiPZfjt5QB",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/2",
+                            "privateKey": "tprv8jdYdDvPPFdoBhSg8JKXwiWEFLMRMcuYm8Kv9pLWtBES8qKZd5VQ2Y8xfJE35udkjdPnyqdf7HH9XJkWGXGH6kuk8brj5kPa4117KoNoDre",
+                            "pubkey": "0216801a3f0f39f895c91952c78783f7a8d024473b7fb78a9ae9b74904f4220204",
+                            "pubKeyHash": "302dba3ecbfc0749e0b08023ac90dab1efc19734",
+                            "change address": "bcrt1pcyqhd72uhz25ttdznfnkpyvthlje32939q2r5z529g65xsav4gtqxvs9q4",
+                            "internalPubkey": "16801a3f0f39f895c91952c78783f7a8d024473b7fb78a9ae9b74904f4220204",
+                            "internalPubkeyBech32m": "1z6qp50c088uftjge2trc0qlh4rgzg3em07mc4xhfkaysfapzqgzqkxskpc"
+                        },
+                        {
+                            "wif": "cMiP2zFN1jZ2mwqRTGUA4Xtc7dSpemGFbhGexFQ8D3yTKuW1MVxE",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/3",
+                            "privateKey": "tprv8jjn96Un8w6h2pSwzTHBvdhJVH2TALKyao9GasEaeqEmrEaskKvR5ip8b9roz1afFRAp5KzWRknEkwHFoNkU6TqhpYvoHZAY6fPe4b3y3ca",
+                            "pubkey": "03ec1d9390bab2da0bfd7d41a5776b047e35ca8b6ef7450a51bb97ccf0e1b62119",
+                            "pubKeyHash": "3e6b08c3050090914fe8d065e635ae2b95b5eb8f",
+                            "receive address": "bcrt1phu82qhcl5mvr9ggf6f5x5k2hguquu9lfnwy89usqkzsjvggnjyqqt988r5",
+                            "internalPubkey": "ec1d9390bab2da0bfd7d41a5776b047e35ca8b6ef7450a51bb97ccf0e1b62119",
+                            "internalPubkeyBech32m": "1aswe8y96ktdqhltagxjhw6cy0c6u4zmw7azs55dmjlx0pcdkyyvskmhcvk"
+                        },
+                        {
+                            "wif": "cQM48t1iYhCwpsyW7WRfkB8zTbkZ4jDN962TV6HmSE8ZvVqzT15w",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/3",
+                            "privateKey": "tprv8jdYdDvPPFdoCMxDPygKwwxVLhJ2znsmqUQ5fSxqUL3TCZh1jZnNbZGyzjXENFepzsp8Y44Q43nYJumkcR7a2jwgYvnQMMcQJKNCLto8d1t",
+                            "pubkey": "035854aaa5025f7dd0a8d0cd388cc0e1dd63ae69351f3e0384f42f0151a7128351",
+                            "pubKeyHash": "35903ce3b2571493ee1fdad9facc216f50f22be4",
+                            "change address": "bcrt1p5afjl4rg2ez2p7rs2mnvnhsyxmex635w9ljpg3c7k65sx4dp3zys4evgf7",
+                            "internalPubkey": "5854aaa5025f7dd0a8d0cd388cc0e1dd63ae69351f3e0384f42f0151a7128351",
+                            "internalPubkeyBech32m": "1tp224fgzta7ap2xse5uges8pm436u6f4rulq8p859uq4rfcjsdgsy3u8qa"
+                        }
+                    ],
+                    "xprv": "tprv8go3x6wJ6cGxkpATvP48h7UDCbUU77gvdVee1e5XXhz71Rbczor7D6fnMEM6PvqoxEPCJ8ffosZMJYiN23ZquZD7M2Ma4TvmvapgpiHwpkp",
+                    "accountWif": "cUMeUDP47rSHmXeU7jz79MNhTPABZmKMJEJoZBERkp5R5etQgHiQ"
+                }
+            }
+        },
+        {
+            "testnet": {
+                "master": {
+                    "xpub": "tpubD6NzVbkrYhZ4XtBvjZPv3K4Y2aJ1fniT5Xt1rXkyQP2tZdWaJFHex3o6XmKRJWA5FVBAavmCWJRWsE3kA7pCCVENieSSqkte8fNxUfzb9E8",
+                    "pubKeyFingerprint": "4e6f8ac3",
+                    "wif": "cUyNCvwSLrRV7z6Q2PuZJXxXNNnaPpzyQkWW9fYprvMsNyEoRCgQ",
+                    "xprv": "tprv8ZgxMBicQKsPeRA8qujKduQRTYn5WTXYWEHEa1ifz7EVj9FofrU4mZBEMfJAZoUmCE3xWe2Ms8enPtBhHgMevwvHajRTbhB6EQr3RAGa5xw"
+                },
+                "channel-factory": {
+                    "xpub": "tpubDDV66WyYEyxdeHCFp2ij6X8KmczQGSsqCoFRJA7pwynVqurPdCfhPbHeXLxoXgkmqZkb2aweccZk4ZcVfiVV36cVuzemeWvKAu3HYcNAebk",
+                    "path": "m/86'/1'/0'",
+                    "addresses": [
+                        {
+                            "wif": "cUBBjXs4dpmbcoo18dNGe1VPCXp49EfNWwu64CBtBQzgKKFdBg4R",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/0",
+                            "privateKey": "tprv8jjn96Un8w6gscagTdR93NwquQf3Braj2RtNiN3KB7tbFEGTQuAwJ1bczmbhWm7yYPibVFxPRzdxev4SYCGMehVsfr8HbDedKum7yHhuqXf",
+                            "pubkey": "03d32e69a4c0096a6cb8569e8f27a0753b7d57956e6a69898111187e3d61cdee08",
+                            "pubKeyHash": "f789c62f2ed4eb2607ef6a5f540aebfe04d1fdec",
+                            "receive address": "tb1pw35dls0zluussp9ym7j25dxczvp20v73m4mye7yz5vxd5u4f4ccquwgvaw",
+                            "internalPubkey": "d32e69a4c0096a6cb8569e8f27a0753b7d57956e6a69898111187e3d61cdee08",
+                            "internalPubkeyBech32m": "16vhxnfxqp94xewzkn68j0gr48d7409twdf5cnqg3rplr6cwdacyqhg3hjj"
+                        },
+                        {
+                            "wif": "cMqmy8t2oG9BsZtE7F5DcmanDrAb6rqNUpcgZ9tSrBagFieGVkXJ",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/0",
+                            "privateKey": "tprv8jdYdDvPPFdo5u2Lui6rUHXcd9P8UKXbf5j3VZVTCL4r6DMKBMye6jSBCGc6egQbEAZbaYTnzw86MnNxqsUj4k859ZuWc7A8rajfbT971D3",
+                            "pubkey": "028cd85768d52df0ebb72dd7a2d346a23c6551ee2292dae6ababd2342ea5d56399",
+                            "pubKeyHash": "17a9e1030a6721e117b51badb92ee5b97ba80993",
+                            "change address": "tb1ptkzxr3hmxru8xfpqje83mjwenj3lm484rejcuptch7w065ef3znsghxghd",
+                            "internalPubkey": "8cd85768d52df0ebb72dd7a2d346a23c6551ee2292dae6ababd2342ea5d56399",
+                            "internalPubkeyBech32m": "13nv9w6x49hcwhded673dx34z83j4rm3zjtdwd2at6g6zafw4vwvsl7ta45"
+                        },
+                        {
+                            "wif": "cMf4vKYguax2HUiFM5Qs9C1rRpTdKpJpenkPNt8yiufmWq6M72fT",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/1",
+                            "privateKey": "tprv8jjn96Un8w6gwprZh9jxxkoB9Mvu1EeGfjzYyqQ65e1mJcGuaaXrcAZ5anGrcTsQMv6UCxuubQQUZRQax5cbL7Mc1Sj9ViW4gMtjiUn3SHJ",
+                            "pubkey": "0264f32b43ad6a803a75a7a7e6e4ef3255a836a55403f6987e93a72ce03c0a7879",
+                            "pubKeyHash": "c3125dd20de15e552f9586f06dc3d4ffcf5c6d35",
+                            "receive address": "tb1pvmrgtfmmtujdzyvd4k5v003p996dq3tkl7e7dpcucjze8qm0schs3n2z6n",
+                            "internalPubkey": "64f32b43ad6a803a75a7a7e6e4ef3255a836a55403f6987e93a72ce03c0a7879",
+                            "internalPubkeyBech32m": "1vnejksadd2qr5ad85lnwfmej2k5rdf25q0mfsl5n5ukwq0q20puspx9ga9"
+                        },
+                        {
+                            "wif": "cRVaxjrmquKrPdnYB5imt8gV6kuij414yVuVqqTmV1pTCUXTrdQk",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/1",
+                            "privateKey": "tprv8jdYdDvPPFdo7QF131u2mSAnXDRChdvSEu4s2f4QmfGzJ56FyGhgGdxiDBFKYYAbYmxwUEFBZwJY71iDAmghzDM7SuXqq5pUyCzevfYLNbF",
+                            "pubkey": "024e1fb41e94c3bb3f8ea68d4918d775e2c0b4e09610c125871723b287d5edef9f",
+                            "pubKeyHash": "b3b828d049669a5f31986417ff153d53c051d3eb",
+                            "change address": "tb1pp3y2ufdhysreuykl3j4u9ldluxrhl7tgaensp2qj3hgkhkjslr5s4e7pc2",
+                            "internalPubkey": "4e1fb41e94c3bb3f8ea68d4918d775e2c0b4e09610c125871723b287d5edef9f",
+                            "internalPubkeyBech32m": "1fc0mg855cwanlr4x34y334m4utqtfcykzrqjtpchyweg040da70s0nkhrw"
+                        },
+                        {
+                            "wif": "cQuXhGUweBjnf63dGpSyxZAABrnDvR1T5SzzGqByTsk5GUivDsYV",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/2",
+                            "privateKey": "tprv8jjn96Un8w6gyHwoCq1GcHP7Qi8KkTFTEqomJgi4StA8R19AvosujVvz3S7kbRSf6DsbPN8j1vN6djtnDygFigDU1mPV5cBwpxp6VMFQgmo",
+                            "pubkey": "02aa5ba7cd95236f4aefaf50be6c6bdce6fc70cbcc0c5935e1d92e8870867778f2",
+                            "pubKeyHash": "98ff658700c3b7e203d50f5dc59b80b729f3343c",
+                            "receive address": "tb1p8f90aqcrmrdaec02j7ws3fwkg04k4mdr0gx56tz5tqmfjj6uz96scx39ur",
+                            "internalPubkey": "aa5ba7cd95236f4aefaf50be6c6bdce6fc70cbcc0c5935e1d92e8870867778f2",
+                            "internalPubkeyBech32m": "14fd60nv4ydh54ma02zlxc67uum78pj7vp3vntcwe96y8ppnh0reqrlwcys"
+                        },
+                        {
+                            "wif": "cVvCXvk2oULmKAXZQzucMyQHEvAapAYpcbR3mV2DrUUiPZfjt5QB",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/2",
+                            "privateKey": "tprv8jdYdDvPPFdoBhSg8JKXwiWEFLMRMcuYm8Kv9pLWtBES8qKZd5VQ2Y8xfJE35udkjdPnyqdf7HH9XJkWGXGH6kuk8brj5kPa4117KoNoDre",
+                            "pubkey": "0216801a3f0f39f895c91952c78783f7a8d024473b7fb78a9ae9b74904f4220204",
+                            "pubKeyHash": "302dba3ecbfc0749e0b08023ac90dab1efc19734",
+                            "change address": "tb1pcyqhd72uhz25ttdznfnkpyvthlje32939q2r5z529g65xsav4gtqt46r40",
+                            "internalPubkey": "16801a3f0f39f895c91952c78783f7a8d024473b7fb78a9ae9b74904f4220204",
+                            "internalPubkeyBech32m": "1z6qp50c088uftjge2trc0qlh4rgzg3em07mc4xhfkaysfapzqgzqkxskpc"
+                        },
+                        {
+                            "wif": "cMiP2zFN1jZ2mwqRTGUA4Xtc7dSpemGFbhGexFQ8D3yTKuW1MVxE",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/3",
+                            "privateKey": "tprv8jjn96Un8w6h2pSwzTHBvdhJVH2TALKyao9GasEaeqEmrEaskKvR5ip8b9roz1afFRAp5KzWRknEkwHFoNkU6TqhpYvoHZAY6fPe4b3y3ca",
+                            "pubkey": "03ec1d9390bab2da0bfd7d41a5776b047e35ca8b6ef7450a51bb97ccf0e1b62119",
+                            "pubKeyHash": "3e6b08c3050090914fe8d065e635ae2b95b5eb8f",
+                            "receive address": "tb1phu82qhcl5mvr9ggf6f5x5k2hguquu9lfnwy89usqkzsjvggnjyqqxudpkw",
+                            "internalPubkey": "ec1d9390bab2da0bfd7d41a5776b047e35ca8b6ef7450a51bb97ccf0e1b62119",
+                            "internalPubkeyBech32m": "1aswe8y96ktdqhltagxjhw6cy0c6u4zmw7azs55dmjlx0pcdkyyvskmhcvk"
+                        },
+                        {
+                            "wif": "cQM48t1iYhCwpsyW7WRfkB8zTbkZ4jDN962TV6HmSE8ZvVqzT15w",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/3",
+                            "privateKey": "tprv8jdYdDvPPFdoCMxDPygKwwxVLhJ2znsmqUQ5fSxqUL3TCZh1jZnNbZGyzjXENFepzsp8Y44Q43nYJumkcR7a2jwgYvnQMMcQJKNCLto8d1t",
+                            "pubkey": "035854aaa5025f7dd0a8d0cd388cc0e1dd63ae69351f3e0384f42f0151a7128351",
+                            "pubKeyHash": "35903ce3b2571493ee1fdad9facc216f50f22be4",
+                            "change address": "tb1p5afjl4rg2ez2p7rs2mnvnhsyxmex635w9ljpg3c7k65sx4dp3zyscqxwuy",
+                            "internalPubkey": "5854aaa5025f7dd0a8d0cd388cc0e1dd63ae69351f3e0384f42f0151a7128351",
+                            "internalPubkeyBech32m": "1tp224fgzta7ap2xse5uges8pm436u6f4rulq8p859uq4rfcjsdgsy3u8qa"
+                        }
+                    ],
+                    "xprv": "tprv8go3x6wJ6cGxkpATvP48h7UDCbUU77gvdVee1e5XXhz71Rbczor7D6fnMEM6PvqoxEPCJ8ffosZMJYiN23ZquZD7M2Ma4TvmvapgpiHwpkp",
+                    "accountWif": "cUMeUDP47rSHmXeU7jz79MNhTPABZmKMJEJoZBERkp5R5etQgHiQ"
+                }
+            }
+        },
+        {
+            "mainnet": {
+                "master": {
+                    "xpub": "xpub661MyMwAqRbcG615HNQpqPjAhTCMgQDPXuHiVyhq4UGzpLqsE2SZoc8GHjEdn1CqTaeFyMFKyCbUB3Z8mFxxK3n5f3h9AEEQYhnYiejzXjw",
+                    "pubKeyFingerprint": "4e6f8ac3",
+                    "wif": "L4cNk1waunjDxYd8dz6RwDTTk9VAjNuHLiN33F6KMohs8E7ukaN4",
+                    "xprv": "xprv9s21ZrQH143K3bvcBLspUFnS9RMsGwVYAgN7hbJDW8k1wYWigV8KFoonSV8WZS6SpnXBWYQbhn4yw2dxAU1i7teh46D9wLT3KK6cyQEwpSm"
+                },
+                "channel-factory": {
+                    "xpub": "xpub6CbUqeqBuYJ1n5WGxKJ5AuXhigU65CS39uz1XgM95sPNVUnhwGTnY4sTSxo5vpNQPVdxzdrgc36HrzLXy3hsBa4u92BkkXx5WcoZ2ExTi5A",
+                    "path": "m/86'/0'/0'",
+                    "addresses": [
+                        {
+                            "wif": "L454z5YoEXhE2Ln3B76eBM8MSDduPjggeXKZZiGwVbGNzrLakK7W",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/0",
+                            "privateKey": "xprvA2sMJigTMAWxDYXnSynqXMFFTXadHFSiHE3doNQNJNfwnND5yxPWKPSYuv7KTCCWFVAQh47w8cBpibzYcZ8iRizkLnowhcfbuG9PubyRcyZ",
+                            "pubkey": "02be4fb61ef49b2b038c816d124aff222dac8863c83978cd5f0ae8bff5c83abfbd",
+                            "pubKeyHash": "4c81f875ba5b1283101584d21036642c2865cb0c",
+                            "receive address": "bc1p8n23vkdzgpypzedw9xuakyume8cs7j8j3vlzrxalmv8utmygxpuq3gc4ng",
+                            "internalPubkey": "be4fb61ef49b2b038c816d124aff222dac8863c83978cd5f0ae8bff5c83abfbd",
+                            "internalPubkeyBech32m": "1he8mv8h5nv4s8rypd5fy4lez9kkgsc7g89uv6hc2azlltjp6h77snlxzgt"
+                        },
+                        {
+                            "wif": "L2vHkVaSQRK67EiyLVx5uRueohepJH3LxwdEVd39oMHGmHDdWP8n",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/0",
+                            "privateKey": "xprvA3zgHa7Xu36wptB28nH1PPXsGaDqe6ASegNJ1TDeaXujVGnKsmBJz7cH8qBUT29HnwAVLSDD2y7DM1Jx7siypyyK7WQ5CAgwAhbVYTsnbSo",
+                            "pubkey": "0326f84ed463515108a4d825da7da4cc25c054a24e0133231f8ebd732f7f03569e",
+                            "pubKeyHash": "49ebca36abf86682fadc4fda83701323a8cb4fbe",
+                            "change address": "bc1pcyv3r4mujfctsy3zjvrn26msy5js66r7qgkm2pq57hrh5qcsnrlqw5hmgf",
+                            "internalPubkey": "26f84ed463515108a4d825da7da4cc25c054a24e0133231f8ebd732f7f03569e",
+                            "internalPubkeyBech32m": "1ymuya4rr29gs3fxcyhd8mfxvyhq9fgjwqyejx8uwh4ej7lcr260ql8dz7z"
+                        },
+                        {
+                            "wif": "L4VVU9yymfEjuZri3BWZjeKT9bkkMWcrQRAK32kLgkt39HjCagBD",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/1",
+                            "privateKey": "xprvA2sMJigTMAWxFZsafwiD7ny2Ub7tN8gnYYpzFyyiDADnyvamwXbUcV7uwMVr3vDA7NPpK6VXJJZbey368HLv4pjz2cPnqcf57AnSSTMTYg9",
+                            "pubkey": "028f2b5fc390bc1cf5fff458157ac7e7944c474eef36562d94c0219ab413113604",
+                            "pubKeyHash": "44890b873685b9b7d04a36f50e69f88307298d2a",
+                            "receive address": "bc1p9gp7y35ec8gdt9urqrr0elxz66ve299rghv2974pghan97m4n5msn0xqjq",
+                            "internalPubkey": "8f2b5fc390bc1cf5fff458157ac7e7944c474eef36562d94c0219ab413113604",
+                            "internalPubkeyBech32m": "13u44lsushsw0tll5tq2h43l8j3xywnh0xetzm9xqyxdtgyc3xczquzfwgx"
+                        },
+                        {
+                            "wif": "KwyLMYfTjx3SmMfY7xNDfE5HQfLndTnxrjsftQMUhKR8SJxcjzDi",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/1",
+                            "privateKey": "xprvA3zgHa7Xu36wtnBM5qd5zxHkxyLkEHpEMV1Knvwd3CerRRTrSQvagdEHAo2yv2rURpwUtuAtBb5gwyP5sHJRHrT6a5Bzne1z8wuZTPmKao5",
+                            "pubkey": "02ed3913121a1d7cb6db34758af841c4d0cdb1112d37fb0e543c4734a9ad6dc900",
+                            "pubKeyHash": "dcf8bd57607b4e54ce19a6a05df38bbaffc324f5",
+                            "change address": "bc1psvpeq2psjutjczlj4xxuygesgqy9pknf0976sfkc8fqr20ax3a4q2suws2",
+                            "internalPubkey": "ed3913121a1d7cb6db34758af841c4d0cdb1112d37fb0e543c4734a9ad6dc900",
+                            "internalPubkeyBech32m": "1a5u3xys6r47tdke5wk90sswy6rxmzyfdxlasu4pugu62nttdeyqqzm0y7m"
+                        },
+                        {
+                            "wif": "L4N9EbsResAbptUZzmJD7gYMkXaJa8bjUgjinrCiZGxJUjNHjYGk",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/2",
+                            "privateKey": "xprvA2sMJigTMAWxJbq3yFPEWiV81D4Qn76t5mL2FtoebmcRNyP7vGLNWXfQRYAab6TURbNB5w86YGTBYpHEX7SoZ9gAhHMTmNp1zVMcJmiF6v2",
+                            "pubkey": "03098339061b1f7c1c9a5bda4f724e2c29fdbe20684a0f82dd05bdda19b4b396c0",
+                            "pubKeyHash": "ecc500d05ddf5efca9db5c60d7d34cc7a95c9259",
+                            "receive address": "bc1p24c7jqzyd47txh0utc58t30kawja2suq9qtlusndvtwsu27seu7qxpqmxu",
+                            "internalPubkey": "098339061b1f7c1c9a5bda4f724e2c29fdbe20684a0f82dd05bdda19b4b396c0",
+                            "internalPubkeyBech32m": "1pxpnjpsmra7pexjmmf8hyn3v987mugrgfg8c9hg9hhdpnd9njmqqe48c7c"
+                        },
+                        {
+                            "wif": "L55xUb5Mtr1ia1cehXULPbhjNtRVh9Rpqu5KAqD8g2ukuVaH4TTd",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/2",
+                            "privateKey": "xprvA3zgHa7Xu36wwNYSqF5NPJdoVNZczcHLB1nj4JatzguqJjhYsVP3u5ewv2ergCk5DbkUhQBBHpHvDQ9WNDsVkJoYhu5sHkPz223nNbJdmhf",
+                            "pubkey": "024f7082e46dd9184ce809c9d40417c6265b6949404dc3b8bfb7e4f83653c2bcbb",
+                            "pubKeyHash": "f9690eb7106bb8a6ebcd5c21af0c802d9c6edec7",
+                            "change address": "bc1pq40fjv389cumpxg2hqypdds4jgldukm46r6dc3tjqly920qc3nkq3l8wzx",
+                            "internalPubkey": "4f7082e46dd9184ce809c9d40417c6265b6949404dc3b8bfb7e4f83653c2bcbb",
+                            "internalPubkeyBech32m": "1facg9erdmyvye6qfe82qg97xyedkjj2qfhpm30ahunurv57zhjasnq7pcd"
+                        },
+                        {
+                            "wif": "L1opmQB4repuFpaBHMXDFf1K7Xv81dqPWifLWvpa7H4HjFX5UdRS",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/3",
+                            "privateKey": "xprvA2sMJigTMAWxMLkpqVwdr4PGLjubWn985NKG49oECNTUaZ3RbuWmJ5kXLm8rpJThEcgT7U6RwzaRPghgKwYoorsacjMd9hyuMYA1SPenWEk",
+                            "pubkey": "03169a48b5bf2182037a1a93bd50a12a732b2f3de40766ef3df3d23ef3c984a4d0",
+                            "pubKeyHash": "c8915586f35dee7966184aa669f5e8fb772a2488",
+                            "receive address": "bc1p5286hem926l0armmjzt9aaaxzh3fdwwj7tesscpq8krfugd2r7gqfms69d",
+                            "internalPubkey": "169a48b5bf2182037a1a93bd50a12a732b2f3de40766ef3df3d23ef3c984a4d0",
+                            "internalPubkeyBech32m": "1z6dy3ddlyxpqx7s6jw74pgf2wv4j700yqanw700n6gl08jvy5ngqe9txfw"
+                        },
+                        {
+                            "wif": "KytQpSb1ineBXTmeTJ2rrSFyyHfd57w11NLDi9ZgcFJ3vFuLNvue",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/3",
+                            "privateKey": "xprvA3zgHa7Xu36wy188xHaVXECgM58nbAabHazF9j1YhjE8swdheXCbxh2NJJJNFrSQDCnfyokdUajM4gNyHJJB8AtoF9zNVVjD91uabWasCiV",
+                            "pubkey": "03322877c5dfe02730b4e8cfe54933985e556cc47e5417aa6af2660ff0caf0f39f",
+                            "pubKeyHash": "d2cba2a1275d29f83a9a19f98c802cf16fd22c83",
+                            "change address": "bc1p4gckjh32tu038r4wm7m4rdd4jrf5vsa5uk4ue7k0jkytnlcnasrqqfwcks",
+                            "internalPubkey": "322877c5dfe02730b4e8cfe54933985e556cc47e5417aa6af2660ff0caf0f39f",
+                            "internalPubkeyBech32m": "1xg5803wluqnnpd8gelj5jvucte2ke3r72st656hjvc8lpjhs7w0sajdecl"
+                        }
+                    ],
+                    "xprv": "xprv9yc8S9JJ5AjiZbRorHm4omayAedbfjiBnh4QjHwXXXrPcgTZPj9XzGYybgFFga4Q6mmFQG8k5EBvYrLdDLJwMHBdTFVMTFGWTXNZpFacBRy",
+                    "accountWif": "KwgfTTos58e6cquyv2inSDmzBLU5rB9rvWunTGXTaQTUeAdxGP8z"
+                }
+            }
+        }
+    ],
+    "bob": [
+        {
+            "mnemonic": "come plastic first ginger sign nephew clever april salt banner monkey relief"
+        },
+        {
+            "regtest": {
+                "master": {
+                    "xpub": "tpubD6NzVbkrYhZ4Y7uWcoRmgeoK97X98ep7NDJToTxcpbfZPDv7N47Vfy6rEPKoPbUi28YRF9yjcBSyzyWgZP5s1QcubKFjquw1MJWJ5t7icyq",
+                    "pubKeyFingerprint": "568795eb",
+                    "wif": "cUARmfyq7ELxRaugJzrBtH5tUjivFG2PxYipJmof3qFeYZPfe1G7",
+                    "xprv": "tprv8ZgxMBicQKsPeesij9mBHF9Ca61CyKdCnuhgWwvKQKsAYjfLjfHuVUUz4HhgZqgDESnT5NujZ7WayQMYttre7NuupmeeJN4fbUMykxep4w6"
+                },
+                "channel-factory": {
+                    "xpub": "tpubDCNa3XGSowLQn1jhvZnNPxPHBFVJNX3zkpcxVePLo2jrJEm7MbYWEVZhHEg4xXRvw4PBaHjiG1vceDbk2cay5trDdiPK2xqmbauUqD91nSF",
+                    "path": "m/86'/1'/0'",
+                    "addresses": [
+                        {
+                            "wif": "cUJ9h2y4iKbyHjmXYjxCkD4E4SWeCerFhCuoyzugpZar5A2Py2ex",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/0",
+                            "privateKey": "tprv8jtLJTrtJ5hRimZ1qYYb95zTGWfYujXVMX7iD7HSoiShxcBDhWAfRMm9vPX6au38L6cQzChUyavwFgyGLRf6sLnKSGtRjRKeGFh2VkuYduP",
+                            "pubkey": "0245b5cd89afc8ee4d8e77dfe63d204c6d9b26ba1f184f57ef420945709ebdfa6d",
+                            "pubKeyHash": "3a964a7f4ca856a3cd20482c41e7d459094e8100",
+                            "receive address": "bcrt1phwj54nyrrf6cjm9wpy5cvmt0vkcawpnqhqnrzr5vnudnjgkxhsds6a3av2",
+                            "internalPubkey": "45b5cd89afc8ee4d8e77dfe63d204c6d9b26ba1f184f57ef420945709ebdfa6d",
+                            "internalPubkeyBech32m": "1gk6umzd0erhymrnhmlnr6gzvdkdjdwslrp840m6zp9zhp84alfksvrazfj"
+                        },
+                        {
+                            "wif": "cPLqaNgjBbydC2wibxn5BC74xThEprDCnNJ6kxs5pSDeKxbW6jwb",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/0",
+                            "privateKey": "tprv8jMZpKsMmiRjxMMJjhcdw6CwrEtorEsALbhA4YG8TeYfCPwTwEM3KWMojpoqmJcyiEXKyd1g7FyDnmGX7Wo5ZD9UMJ3vraTbpqu9SDr5hBm",
+                            "pubkey": "03c5feaea3bdf921f9d296a901e2d847c3ff0286dfb08243f96882d0374049aec7",
+                            "pubKeyHash": "b0c1932aafd13c2caa57bade9ae92cf39efa60c2",
+                            "change address": "bcrt1psdhtrjctnkn27gsp36qtwu5qwx27p3jl2jzr3asm4vgtt3fkgynslwgsu7",
+                            "internalPubkey": "c5feaea3bdf921f9d296a901e2d847c3ff0286dfb08243f96882d0374049aec7",
+                            "internalPubkeyBech32m": "1chl2agaalysln55k4yq79kz8c0ls9pklkzpy87tgstgrwszf4mrs4fyx36"
+                        },
+                        {
+                            "wif": "cMgPoXqo5gQezua3CydNJ9uZ6ZKV6GaPohcfwmW7f3dcd8PUgqUn",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/1",
+                            "privateKey": "tprv8jtLJTrtJ5hRmhRpfApTfTdbRB6gNv5fBkoV7EjnbUa5FsHSjYLQGrdCdQ8EeaaersRXx4JjUYz32in4uXUD8d3VkibkAznD15L7Pbts5nJ",
+                            "pubkey": "031c92c5bdc088833b3113f1b3f31e0f6b67a27aa67d15c6fdcd13c4e16a05c04d",
+                            "pubKeyHash": "d2da7b52e8bd36561829ad53f2d179d5ab4fa9cf",
+                            "receive address": "bcrt1p5ukclgssqxk8mpk4830ujzmp5xw4zjzk5xhu9e43yf2hm5g7ecdq84tw3n",
+                            "internalPubkey": "1c92c5bdc088833b3113f1b3f31e0f6b67a27aa67d15c6fdcd13c4e16a05c04d",
+                            "internalPubkeyBech32m": "1rjfvt0wq3zpnkvgn7xelx8s0ddn6y74x052udlwdz0zwz6s9cpxsgvjg86"
+                        },
+                        {
+                            "wif": "cSTzG8eqX29hFmMzSFXGoJzb1EEZB3TtiEjhUpcGrFzKkR9mSVAP",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/1",
+                            "privateKey": "tprv8jMZpKsMmiRk13YkQuJ4gRTdzkup7CbBfUPCQNK3RxdzHCDR7Td6o5pAaXgiYJDqfdBCifXDyYE52oCou2XnXhL5yYEfLh4pVYESPb4cWjf",
+                            "pubkey": "028d03255c998132a783327c9a5915dc533e278fd3187229dc13189e5e4dd1ea10",
+                            "pubKeyHash": "7c22cd930de33a7a647489989f1f8aa6154e09a4",
+                            "change address": "bcrt1ped24vn4yut98ld8c9jh803lyeekvkmzwyzx06y36rhfrnw73cz5s764an6",
+                            "internalPubkey": "8d03255c998132a783327c9a5915dc533e278fd3187229dc13189e5e4dd1ea10",
+                            "internalPubkeyBech32m": "135pj2hyesye20qej0jd9j9wu2vlz0r7nrpeznhqnrz09unw3aggqh45zqs"
+                        },
+                        {
+                            "wif": "cSL6nvt6xoc5D1abHkYnXEQxo9qJqwasABNPeEqNc9KZR6m1ZXmR",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/2",
+                            "privateKey": "tprv8jtLJTrtJ5hRoByRFHew7H5U8UUQyukpaaowKGs12FXLUcfnxRk9cx6jm2TZt4S1w7iGwACcbz3xj4iroehUESsN9KdGAMWAEreWThvEGqN",
+                            "pubkey": "031975a250a4017ccc3ae0bcce0d05205e93a0b50e453f17b501b2859413908965",
+                            "pubKeyHash": "67dfdd21ca370d0426e970c92cbd00ae8fc13a40",
+                            "receive address": "bcrt1plse8s49vnj8zlqyv239w878n6eve3krz7jwsssn8ckfc2zn5d2ash65l06",
+                            "internalPubkey": "1975a250a4017ccc3ae0bcce0d05205e93a0b50e453f17b501b2859413908965",
+                            "internalPubkeyBech32m": "1r966y59yq97vcwhqhn8q6pfqt6f6pdgwg5l30dgpk2zegyus39js4udku0"
+                        },
+                        {
+                            "wif": "cSESfyKjQjHrq5q1d115mhWYcd1Pjg3WbKjVHeMtM8KFNJ4cCA8m",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/2",
+                            "privateKey": "tprv8jMZpKsMmiRk3MvcmehtyV4nBRUYdFVrH1pRCb4CiBsuvvSvA1AT7598MpQSuJ993ANL9qRcydb8CmccXwDbt2MgzeeDLccZo44jFUUBiUW",
+                            "pubkey": "02338bce155e0ab2d60e3681fbedf059410aab84bb2c811614b541916c6393ef47",
+                            "pubKeyHash": "03bcaf778e339a6d1d8fa949ebf7db58f822c513",
+                            "change address": "bcrt1peej7vq3zgxsyvmq2hsy7vmyrtmd3khzzu5a42ewxjj66p032hmzqqcp85p",
+                            "internalPubkey": "338bce155e0ab2d60e3681fbedf059410aab84bb2c811614b541916c6393ef47",
+                            "internalPubkeyBech32m": "1xw9uu927p2edvr3ks8a7muzegy92hp9m9jq3v994gxgkccunaarszs592x"
+                        },
+                        {
+                            "wif": "cMqkMXbpVSR1sjvALNtdmWd5KTdoeLzD9Eujk8g6ddHW97ZgPtFd",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/3",
+                            "privateKey": "tprv8jtLJTrtJ5hRrj8A6wrHUdFe6EcSrguFVDuvPn53VKE2zT6wydwFyijtdHeQKw2m6KpGwYoF4xKqxdqFcwg1qbZqf3d7ij9HbGqUZyjxYdk",
+                            "pubkey": "03e7e435a07610ea856f9dae59e27819537806eeb49ab2a49ac11cb12be6fc70cd",
+                            "pubKeyHash": "7f4c03ad2edba08d0d203e0d37c4e4163714cebd",
+                            "receive address": "bcrt1ptczrslw4psampxcjlu03preupaujusvhzzmm67yx8ldl3wlsm5yqhd9678",
+                            "internalPubkey": "e7e435a07610ea856f9dae59e27819537806eeb49ab2a49ac11cb12be6fc70cd",
+                            "internalPubkeyBech32m": "1uljrtgrkzr4g2mua4ev7y7qe2duqdm45n2e2fxkprjcjhehuwrxsmsx4ez"
+                        },
+                        {
+                            "wif": "cV7NNQbEGge6s69DeVJ8cfHvxkYtAKhJidDznZAy8SNRavTtGdti",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/3",
+                            "privateKey": "tprv8jMZpKsMmiRk4KDtD6coqoLDr2zuRhbYtCPHz2MKjDNLrZrBAfwytQAaXpFQi2YMkMkGfw1JueUVRHNSbkuEuieSJqx2UbB79pgsPJTMj8y",
+                            "pubkey": "03d805bf6f8f3d3f49893db372693ae68b551b7de31802c67f5f1bf881dfadd487",
+                            "pubKeyHash": "9a879c780747811315908bef9d96fa0244df4d32",
+                            "change address": "bcrt1p20aw7j3unrgksmywg5ulwps2c8c6wjmkg7l70jqgjhm8thv9ay0skkn6q0",
+                            "internalPubkey": "d805bf6f8f3d3f49893db372693ae68b551b7de31802c67f5f1bf881dfadd487",
+                            "internalPubkeyBech32m": "1mqzm7mu085l5nzfakdexjwhx3d23kl0rrqpvvl6lr0ugrhad6jrsayqtsc"
+                        }
+                    ],
+                    "xprv": "tprv8fgXu7ECfZejtYhv2v7mzYjAcDyNDBs6BX2BD8M3NkwTTkWLjCiv3zwq77asKbYhyQL9TwgGr7ydvfs7tc88hmTLayTyNfjNpRXQa7oeP22",
+                    "accountWif": "cUAjUjaW7M3zwPCb6TRmH2Nv1WnjVJfQ6GBSvSaqjW5Q21YS8QU8"
+                }
+            }
+        },
+        {
+            "testnet": {
+                "master": {
+                    "xpub": "tpubD6NzVbkrYhZ4Y7uWcoRmgeoK97X98ep7NDJToTxcpbfZPDv7N47Vfy6rEPKoPbUi28YRF9yjcBSyzyWgZP5s1QcubKFjquw1MJWJ5t7icyq",
+                    "pubKeyFingerprint": "568795eb",
+                    "wif": "cUARmfyq7ELxRaugJzrBtH5tUjivFG2PxYipJmof3qFeYZPfe1G7",
+                    "xprv": "tprv8ZgxMBicQKsPeesij9mBHF9Ca61CyKdCnuhgWwvKQKsAYjfLjfHuVUUz4HhgZqgDESnT5NujZ7WayQMYttre7NuupmeeJN4fbUMykxep4w6"
+                },
+                "channel-factory": {
+                    "xpub": "tpubDCNa3XGSowLQn1jhvZnNPxPHBFVJNX3zkpcxVePLo2jrJEm7MbYWEVZhHEg4xXRvw4PBaHjiG1vceDbk2cay5trDdiPK2xqmbauUqD91nSF",
+                    "path": "m/86'/1'/0'",
+                    "addresses": [
+                        {
+                            "wif": "cUJ9h2y4iKbyHjmXYjxCkD4E4SWeCerFhCuoyzugpZar5A2Py2ex",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/0",
+                            "privateKey": "tprv8jtLJTrtJ5hRimZ1qYYb95zTGWfYujXVMX7iD7HSoiShxcBDhWAfRMm9vPX6au38L6cQzChUyavwFgyGLRf6sLnKSGtRjRKeGFh2VkuYduP",
+                            "pubkey": "0245b5cd89afc8ee4d8e77dfe63d204c6d9b26ba1f184f57ef420945709ebdfa6d",
+                            "pubKeyHash": "3a964a7f4ca856a3cd20482c41e7d459094e8100",
+                            "receive address": "tb1phwj54nyrrf6cjm9wpy5cvmt0vkcawpnqhqnrzr5vnudnjgkxhsdshymmes",
+                            "internalPubkey": "45b5cd89afc8ee4d8e77dfe63d204c6d9b26ba1f184f57ef420945709ebdfa6d",
+                            "internalPubkeyBech32m": "1gk6umzd0erhymrnhmlnr6gzvdkdjdwslrp840m6zp9zhp84alfksvrazfj"
+                        },
+                        {
+                            "wif": "cPLqaNgjBbydC2wibxn5BC74xThEprDCnNJ6kxs5pSDeKxbW6jwb",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/0",
+                            "privateKey": "tprv8jMZpKsMmiRjxMMJjhcdw6CwrEtorEsALbhA4YG8TeYfCPwTwEM3KWMojpoqmJcyiEXKyd1g7FyDnmGX7Wo5ZD9UMJ3vraTbpqu9SDr5hBm",
+                            "pubkey": "03c5feaea3bdf921f9d296a901e2d847c3ff0286dfb08243f96882d0374049aec7",
+                            "pubKeyHash": "b0c1932aafd13c2caa57bade9ae92cf39efa60c2",
+                            "change address": "tb1psdhtrjctnkn27gsp36qtwu5qwx27p3jl2jzr3asm4vgtt3fkgynsjhzkfy",
+                            "internalPubkey": "c5feaea3bdf921f9d296a901e2d847c3ff0286dfb08243f96882d0374049aec7",
+                            "internalPubkeyBech32m": "1chl2agaalysln55k4yq79kz8c0ls9pklkzpy87tgstgrwszf4mrs4fyx36"
+                        },
+                        {
+                            "wif": "cMgPoXqo5gQezua3CydNJ9uZ6ZKV6GaPohcfwmW7f3dcd8PUgqUn",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/1",
+                            "privateKey": "tprv8jtLJTrtJ5hRmhRpfApTfTdbRB6gNv5fBkoV7EjnbUa5FsHSjYLQGrdCdQ8EeaaersRXx4JjUYz32in4uXUD8d3VkibkAznD15L7Pbts5nJ",
+                            "pubkey": "031c92c5bdc088833b3113f1b3f31e0f6b67a27aa67d15c6fdcd13c4e16a05c04d",
+                            "pubKeyHash": "d2da7b52e8bd36561829ad53f2d179d5ab4fa9cf",
+                            "receive address": "tb1p5ukclgssqxk8mpk4830ujzmp5xw4zjzk5xhu9e43yf2hm5g7ecdq2vpgyf",
+                            "internalPubkey": "1c92c5bdc088833b3113f1b3f31e0f6b67a27aa67d15c6fdcd13c4e16a05c04d",
+                            "internalPubkeyBech32m": "1rjfvt0wq3zpnkvgn7xelx8s0ddn6y74x052udlwdz0zwz6s9cpxsgvjg86"
+                        },
+                        {
+                            "wif": "cSTzG8eqX29hFmMzSFXGoJzb1EEZB3TtiEjhUpcGrFzKkR9mSVAP",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/1",
+                            "privateKey": "tprv8jMZpKsMmiRk13YkQuJ4gRTdzkup7CbBfUPCQNK3RxdzHCDR7Td6o5pAaXgiYJDqfdBCifXDyYE52oCou2XnXhL5yYEfLh4pVYESPb4cWjf",
+                            "pubkey": "028d03255c998132a783327c9a5915dc533e278fd3187229dc13189e5e4dd1ea10",
+                            "pubKeyHash": "7c22cd930de33a7a647489989f1f8aa6154e09a4",
+                            "change address": "tb1ped24vn4yut98ld8c9jh803lyeekvkmzwyzx06y36rhfrnw73cz5snrlmxq",
+                            "internalPubkey": "8d03255c998132a783327c9a5915dc533e278fd3187229dc13189e5e4dd1ea10",
+                            "internalPubkeyBech32m": "135pj2hyesye20qej0jd9j9wu2vlz0r7nrpeznhqnrz09unw3aggqh45zqs"
+                        },
+                        {
+                            "wif": "cSL6nvt6xoc5D1abHkYnXEQxo9qJqwasABNPeEqNc9KZR6m1ZXmR",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/2",
+                            "privateKey": "tprv8jtLJTrtJ5hRoByRFHew7H5U8UUQyukpaaowKGs12FXLUcfnxRk9cx6jm2TZt4S1w7iGwACcbz3xj4iroehUESsN9KdGAMWAEreWThvEGqN",
+                            "pubkey": "031975a250a4017ccc3ae0bcce0d05205e93a0b50e453f17b501b2859413908965",
+                            "pubKeyHash": "67dfdd21ca370d0426e970c92cbd00ae8fc13a40",
+                            "receive address": "tb1plse8s49vnj8zlqyv239w878n6eve3krz7jwsssn8ckfc2zn5d2as6r7e6q",
+                            "internalPubkey": "1975a250a4017ccc3ae0bcce0d05205e93a0b50e453f17b501b2859413908965",
+                            "internalPubkeyBech32m": "1r966y59yq97vcwhqhn8q6pfqt6f6pdgwg5l30dgpk2zegyus39js4udku0"
+                        },
+                        {
+                            "wif": "cSESfyKjQjHrq5q1d115mhWYcd1Pjg3WbKjVHeMtM8KFNJ4cCA8m",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/2",
+                            "privateKey": "tprv8jMZpKsMmiRk3MvcmehtyV4nBRUYdFVrH1pRCb4CiBsuvvSvA1AT7598MpQSuJ993ANL9qRcydb8CmccXwDbt2MgzeeDLccZo44jFUUBiUW",
+                            "pubkey": "02338bce155e0ab2d60e3681fbedf059410aab84bb2c811614b541916c6393ef47",
+                            "pubKeyHash": "03bcaf778e339a6d1d8fa949ebf7db58f822c513",
+                            "change address": "tb1peej7vq3zgxsyvmq2hsy7vmyrtmd3khzzu5a42ewxjj66p032hmzqdptppm",
+                            "internalPubkey": "338bce155e0ab2d60e3681fbedf059410aab84bb2c811614b541916c6393ef47",
+                            "internalPubkeyBech32m": "1xw9uu927p2edvr3ks8a7muzegy92hp9m9jq3v994gxgkccunaarszs592x"
+                        },
+                        {
+                            "wif": "cMqkMXbpVSR1sjvALNtdmWd5KTdoeLzD9Eujk8g6ddHW97ZgPtFd",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/3",
+                            "privateKey": "tprv8jtLJTrtJ5hRrj8A6wrHUdFe6EcSrguFVDuvPn53VKE2zT6wydwFyijtdHeQKw2m6KpGwYoF4xKqxdqFcwg1qbZqf3d7ij9HbGqUZyjxYdk",
+                            "pubkey": "03e7e435a07610ea856f9dae59e27819537806eeb49ab2a49ac11cb12be6fc70cd",
+                            "pubKeyHash": "7f4c03ad2edba08d0d203e0d37c4e4163714cebd",
+                            "receive address": "tb1ptczrslw4psampxcjlu03preupaujusvhzzmm67yx8ldl3wlsm5yq650uta",
+                            "internalPubkey": "e7e435a07610ea856f9dae59e27819537806eeb49ab2a49ac11cb12be6fc70cd",
+                            "internalPubkeyBech32m": "1uljrtgrkzr4g2mua4ev7y7qe2duqdm45n2e2fxkprjcjhehuwrxsmsx4ez"
+                        },
+                        {
+                            "wif": "cV7NNQbEGge6s69DeVJ8cfHvxkYtAKhJidDznZAy8SNRavTtGdti",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/3",
+                            "privateKey": "tprv8jMZpKsMmiRk4KDtD6coqoLDr2zuRhbYtCPHz2MKjDNLrZrBAfwytQAaXpFQi2YMkMkGfw1JueUVRHNSbkuEuieSJqx2UbB79pgsPJTMj8y",
+                            "pubkey": "03d805bf6f8f3d3f49893db372693ae68b551b7de31802c67f5f1bf881dfadd487",
+                            "pubKeyHash": "9a879c780747811315908bef9d96fa0244df4d32",
+                            "change address": "tb1p20aw7j3unrgksmywg5ulwps2c8c6wjmkg7l70jqgjhm8thv9ay0sm0eu44",
+                            "internalPubkey": "d805bf6f8f3d3f49893db372693ae68b551b7de31802c67f5f1bf881dfadd487",
+                            "internalPubkeyBech32m": "1mqzm7mu085l5nzfakdexjwhx3d23kl0rrqpvvl6lr0ugrhad6jrsayqtsc"
+                        }
+                    ],
+                    "xprv": "tprv8fgXu7ECfZejtYhv2v7mzYjAcDyNDBs6BX2BD8M3NkwTTkWLjCiv3zwq77asKbYhyQL9TwgGr7ydvfs7tc88hmTLayTyNfjNpRXQa7oeP22",
+                    "accountWif": "cUAjUjaW7M3zwPCb6TRmH2Nv1WnjVJfQ6GBSvSaqjW5Q21YS8QU8"
+                }
+            }
+        },
+        {
+            "mainnet": {
+                "master": {
+                    "xpub": "xpub661MyMwAqRbcGKifAcSgUjTwozRV9GK3paiASuuUUgufdwFQHqGQXXS1zMF1s6XUEE1WdaTs55cwJo25AXEd7yAcXiWSAPGmmLutKtByKCE",
+                    "pubKeyFingerprint": "568795eb",
+                    "wif": "L3oSJkyygAehG9SQvb34WxaprWRWaovhtWaMCMM9YibeHpK59jo4",
+                    "xprv": "xprv9s21ZrQH143K3qeC4aug7bXDFxazjobCTMnZeXVrvMNgm8vFkHx9yj7Y97Y2ZUHts1Fg5HHyPkvnWYoomgWhJKeKJ8SLe1LcgNcZKCqfFbr"
+                },
+                "channel-factory": {
+                    "xpub": "xpub6CacDQPTEMUqJsPG9zyjHSRg6pr8tVCgNpQaRf3ZFqenLwUL3MwHM9CQ1hFDw3pNHKwLww6xe1sC4TSg3fcrDZhoKTqdrvrUDqZ1j8sy9Xn",
+                    "path": "m/86'/0'/0'",
+                    "addresses": [
+                        {
+                            "wif": "Kz6PmAe8u11hg7XiGbBurcWGBk5qQCGQEnws8yLW7fjUR7kZJevj",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/0",
+                            "privateKey": "xprvA2ShT9x7Pj6ortA4mYpzw4Spd7TCzypbc5Mcx3dkKCP6UR1UsoBbapCrNTNjHiVQMhn3hDiCev3Wj1dBrJXDtz4FTGTNyN52634ftYJS99Z",
+                            "pubkey": "0278cfc087594270837bbf422ccdc98f3e5512dcf6ef6f26b4c9546edace3578c0",
+                            "pubKeyHash": "536b39ab3d4aa7c613c7511fb364f8e9c98a34fa",
+                            "receive address": "bc1pcdvpf57wgsau6efrwn6vfp4l3s5yxr68yk0czugkhv2533nv8muqlr023k",
+                            "internalPubkey": "78cfc087594270837bbf422ccdc98f3e5512dcf6ef6f26b4c9546edace3578c0",
+                            "internalPubkeyBech32m": "10r8upp6egfcgx7alggkvmjv08e239h8kaahjddxf23hd4n340rqqr3efme"
+                        },
+                        {
+                            "wif": "Kz7XkeFm1isnAkrSrUsYyo95b2wyKeBWP28mSjsX9JmjvVeCJgVc",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/0",
+                            "privateKey": "xprvA2W3HRMw5hA3ewf6aKKGu4P3AAdttVMyNePU64qZDJxqwMJKhH4J6aAx5JwFFh6pgHotATXSr5YgRaKP35mEQLNVnTjE2s6kbBPwpx1VskB",
+                            "pubkey": "02d150a0bffb7c530c25aaf78a370a646184ff2a18454f90eb89461f80d7a162cf",
+                            "pubKeyHash": "49252474636bbf359df534eb5f14be43a5897702",
+                            "change address": "bc1p5ups46qccqsj68j5rfg8nn5pn59garfpwtt7n4wwupfj0rn20skst39ure",
+                            "internalPubkey": "d150a0bffb7c530c25aaf78a370a646184ff2a18454f90eb89461f80d7a162cf",
+                            "internalPubkeyBech32m": "169g2p0lm03fscfd2779rwznyvxz072scg48ep6ufgc0cp4apvt8skyq3lf"
+                        },
+                        {
+                            "wif": "KwWVsSYXXDUMyrzCwGhL9Bi8iVxpa2Vp8nh5DjVdnYMopzKCi63U",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/1",
+                            "privateKey": "xprvA2ShT9x7Pj6ov6sZ6RXdfPEimgtQT7aZgD1ckiTuZQvW2ir8NsboCqdw5pV9ZQvYaXsKAs7VMfMYD33jjseoC7w5KVpdsHHxLFU8MAb2Bqe",
+                            "pubkey": "03b126f24d14d8a2ab7b626b565e73bed44b89dd9310d9de7f158942578413a5dd",
+                            "pubKeyHash": "1b999e884deedefad90bf9cb087f084f1a7248d4",
+                            "receive address": "bc1phvppmruquudwt7yqcpkehw23cmt4uap9nzdjv52c5nvadeku0qeqlcy6z4",
+                            "internalPubkey": "b126f24d14d8a2ab7b626b565e73bed44b89dd9310d9de7f158942578413a5dd",
+                            "internalPubkeyBech32m": "1kyn0yng5mz32k7mzddt9uua7639cnhvnzrvaulc439p90pqn5hwsvmq6t9"
+                        },
+                        {
+                            "wif": "L1urLDSVZ873m3Web2bM1hJgeRBfnu7RR6mxf3h9B4DuQwjXsk9i",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/1",
+                            "privateKey": "xprvA2W3HRMw5hA3hbam9muSP24dRFRyYT9R6Bd2nY5C5PPZBmUHWvLWZhRTjdkq7Vwbky5xdnRBJe8QNgFooFjeDiBZNQkULA4cvnon2QGmezf",
+                            "pubkey": "025f56e88f5be15957ea4c3d8c63ffeed7f03d244df7babf0f1873875f69da7f5f",
+                            "pubKeyHash": "3ca865d25213c2d136bd79f1e1733b067bf93de3",
+                            "change address": "bc1pnctzjggcexu38qa2qweyjmtvngm3usjpfyl4aqexgwz86a8z42xs4mrztk",
+                            "internalPubkey": "5f56e88f5be15957ea4c3d8c63ffeed7f03d244df7babf0f1873875f69da7f5f",
+                            "internalPubkeyBech32m": "1tatw3r6mu9v406jv8kxx8llw6lcr6fzd77at7rccwwr476w60a0s4s3ru3"
+                        },
+                        {
+                            "wif": "L5DR3ZDerSmjv2xVodUxiTRBPSfF5JXBknSh1a7n5jgs7nbhWJtK",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/2",
+                            "privateKey": "xprvA2ShT9x7Pj6owto1nwPvfUdGeUnPBQHYhYqQ8DsHze6YCw87Gk23oWyD4akikKWzq4JDMbM25g11DU1qwWHYJ7fSxS3MGRsT1KQbo4AtxSM",
+                            "pubkey": "03113c72d31f0744e23b8ae6a4fe27bcd5d4e95a7276235f5f72d3b3b3bda0aeb4",
+                            "pubKeyHash": "3154770012a355e649353853e4ef5dca5d8fb4e8",
+                            "receive address": "bc1praa6p66gp92e4jm5gplrxqdkt080z5wwm6a3z0rm56q9tn4takwqe5m0we",
+                            "internalPubkey": "113c72d31f0744e23b8ae6a4fe27bcd5d4e95a7276235f5f72d3b3b3bda0aeb4",
+                            "internalPubkeyBech32m": "1zy7895clqazwywu2u6j0ufau6h2wjknjwc347hmj6wem80dq466qhgexny"
+                        },
+                        {
+                            "wif": "KwotABNDqQrMHaxgQi5tD8XNcPJhEmU2wZu2asvf1w1Fs1XCTDQ8",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/2",
+                            "privateKey": "xprvA2W3HRMw5hA3jv6Yqhdjo7aqAXw5v2whu1N4Geb3PokarfNwYQVg7xa7qxjHCz96h2kD9STLBZ1NWHEfXQsmQRqNXzX8PQ4ubWaQc22Qmmr",
+                            "pubkey": "0307c9f7be5ea27d1e557f0409dabeba0ba19d02059843135f32f7a36b5e3354e0",
+                            "pubKeyHash": "41e96da5bdfc324a2dff2ac8cb65b03e6759b5e3",
+                            "change address": "bc1plwp4mvrwtflsc5grtaqk9lyhwrff46pmjqnwyln806u4d9qakw2s4l68nr",
+                            "internalPubkey": "07c9f7be5ea27d1e557f0409dabeba0ba19d02059843135f32f7a36b5e3354e0",
+                            "internalPubkeyBech32m": "1qlyl00j75f73u4tlqsya4046pwse6qs9npp3xhej773kkh3n2nsqqes5r3"
+                        },
+                        {
+                            "wif": "L48rFeEDfEid9ZeKWtr4m5p4JQC2xdzDRUsGvW5EmaPcCPUE55xh",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/3",
+                            "privateKey": "xprvA2ShT9x7Pj6oz9XmGhqudCTGom9wwAvFy5AW3oLqZWQpHWonY8A5KP1zoKzzjpqL94wRUeNfewcsUJhG5PCpFbx3gN1dwsNXHxP2aWJZ9cZ",
+                            "pubkey": "02aefb8befc068f8ac5ca2b05e4032c59d274c7b199f7ec7c95421a841336bc5d1",
+                            "pubKeyHash": "ede5748674267564c1d05742a30cfbf43ef84afd",
+                            "receive address": "bc1paz87g7k9eur2v2vg2488zvuvpnn874kryh8pz2rmzrsan7kzj95qfs4q05",
+                            "internalPubkey": "aefb8befc068f8ac5ca2b05e4032c59d274c7b199f7ec7c95421a841336bc5d1",
+                            "internalPubkeyBech32m": "14machm7qdru2ch9zkp0yqvk9n5n5c7cenalv0j25yx5yzvmtchgs0qzy30"
+                        },
+                        {
+                            "wif": "KyTYmhWFJej7fVidLMPfzyzHAX5N8BcGUHGisyDu6fFKyy6iZL8p",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/3",
+                            "privateKey": "xprvA2W3HRMw5hA3n5XVbCEC5sgDyDxC4sULLijRXGWPiKtBm6Th3DdV9zzAWdPZ9pJGMpJmC5SGRuBP4MJEAxZyrK36oThWdvKkAqxVGdfT3yx",
+                            "pubkey": "03c783868832c5ef06605af226239ba95dcaf19cbca6cae09c391c621fedb3de9f",
+                            "pubKeyHash": "109ec2946edc0bf2d0e9a4fcd363323b3a729df9",
+                            "change address": "bc1phveqdry63ua93an093jm26qxpvfhm0a3vnpupxu3d82seqapkursrurf8w",
+                            "internalPubkey": "c783868832c5ef06605af226239ba95dcaf19cbca6cae09c391c621fedb3de9f",
+                            "internalPubkeyBech32m": "1c7pcdzpjchhsvcz67gnz8xafth90r89u5m9wp8per33plmdnm60spyx6pa"
+                        }
+                    ],
+                    "xprv": "xprv9ybFotrZPyvY6PJo3ySivJUwYo1eV2Uq1bUydGdwhW7oU99BVpd2oLsvAQK1NGptGQiUGyYqkT7LTXiGA6Jr5U1jUoC9ZGKkQX26UtyQEux",
+                    "accountWif": "KwMxHTap2NsKMPEPavnp841bDbSubWrgdjUBh3rrxQW2prjptKTt"
+                }
+            }
+        }
+    ],
+    "carol": [
+        {
+            "mnemonic": "coast control purse will long orange airport head orbit spend wasp coin"
+        },
+        {
+            "regtest": {
+                "master": {
+                    "xpub": "tpubD6NzVbkrYhZ4WgTQuSiy6C8a4xfUV4WN4frCWvJZ3ShK5CgzgvR3zRW9hdwuuFWb5xKKFF12hjTMsfwNp5ezzjMherxtsgLSccftKLUXSFs",
+                    "pubKeyFingerprint": "e3343692",
+                    "wif": "cRjgqJqDsWzoMCTNuJBkhprHMUyBWxNc2bTVpTnmunzhTB28Y6FW",
+                    "xprv": "tprv8ZgxMBicQKsPdDRd1o4NgnUTVw9YKjKTVNFREQGFdAtvEiSE4XbTovtHXUGDxaDhF1644ZJPi7Ld141zzBsgUogukvwpwjdtdDnQA4JhYVv"
+                },
+                "channel-factory": {
+                    "xpub": "tpubDCffH9fK9GAd8R1g2xa71shZrapjh8XH5SzZgphoarZfwWMZxu9bJKcbgKSSntkiohVk4cGrraf4xX4m9oxcskfBKPmYXpDTwFNkBp2Y4Ss",
+                    "path": "m/86'/1'/0'",
+                    "addresses": [
+                        {
+                            "wif": "cN8Lt3imnNemxJZn4m3bFpXCZdh8rPM6iFeuW5WLMXHVp1XHDDpu",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/0",
+                            "privateKey": "tprv8jKsnLU6JdfTE6p578Ym4LMY4BGsX9UFQdDPy1xMzQVfeaENQqvNcz4q8ZoRD929WwuihKbxb1DQNCAcjRTKtzBK6tBK7EvbzzGB7SpDH6N",
+                            "pubkey": "02a35977e529d2feded672219150f8b39d77a37ec85baf399ff0052113ea3e0fa7",
+                            "pubKeyHash": "37b97dfb5ec564bbf06b956448da1884b7f90850",
+                            "receive address": "bcrt1pm3umrzlq0af5gj2t65egh6twrjvffds0pky8kzatwsshs2t4mrcssfqa5v",
+                            "internalPubkey": "a35977e529d2feded672219150f8b39d77a37ec85baf399ff0052113ea3e0fa7",
+                            "internalPubkeyBech32m": "15dvh0eff6tlda4njyxg4p79nn4m6xlkgtwhnn8lsq5s38637p7nseflce2"
+                        },
+                        {
+                            "wif": "cVNjBU1SNHvPnfQA5cL8reBZVgTeKoA4rzFHpgj4p52gCR6Q9Y4e",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/0",
+                            "privateKey": "tprv8jjsSZqTNGWG4WsWWB6Thu1oST3UxKDau1YC5euNCRRzw26Hr4TVmd6qPZvwFt1WgDdyvXrHQ5Pbxkh3ffu9HGZpwT69vjVz6ZNmdoektPT",
+                            "pubkey": "0208eca84219d6e24eb073cf411ab287b6121619410d4803a9d5a0fc2fece477d6",
+                            "pubKeyHash": "231dd265bd6b0e34e33c43ea412e1cbaacd7f0d7",
+                            "change address": "bcrt1pq47hey9d3xwmmctkpqmu2mx6h646tad345rlu9xy374mamvytxfseudr93",
+                            "internalPubkey": "08eca84219d6e24eb073cf411ab287b6121619410d4803a9d5a0fc2fece477d6",
+                            "internalPubkeyBech32m": "1prk2ssse6m3yavrneaq34v58kcfpvx2pp4yq82w45r7zlm8ywltqc4cc4n"
+                        },
+                        {
+                            "wif": "cVPBDSb9URBiG5ckfYL5wQSQp7ZChp1A4yakQvkA93uou7cpZqfG",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/1",
+                            "privateKey": "tprv8jKsnLU6JdfTGjVEnY4hBuhLctpX9TahHDoYvu58u8R4H6UM1CoXL8tB8qbjpsFbQ7CPePUHnmGNgM2hDoY5ZZ3gGzFxvCKCUciH1YuSjQH",
+                            "pubkey": "035f08734e112aaf0c43c5a387cf0e8d29002837fac13bece0e40976b10a4ae6e0",
+                            "pubKeyHash": "a74446e794693a0fd2c348c2f6fd6ff176ddc3f5",
+                            "receive address": "bcrt1pqs2jwh2x49gesu3xdq3p72s5wmj92ndqvuw755e2kw0knsaujcxsttpppq",
+                            "internalPubkey": "5f08734e112aaf0c43c5a387cf0e8d29002837fac13bece0e40976b10a4ae6e0",
+                            "internalPubkeyBech32m": "1tuy8xns392hscs795wru7r5d9yqzsdl6cya7ec8yp9mtzzj2umsq25qphw"
+                        },
+                        {
+                            "wif": "cP65yZfmshuawKGY2nGfAn3enQ98twHkZrC2GB5SpeQz3SbNsAw8",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/1",
+                            "privateKey": "tprv8jjsSZqTNGWG7dRdxH5kSMZAcKnVUMzNJDss6mCPTLh8u5KFEmKSSUjy9hnu1rXVqSq4X5mW8Priq4ksRTSWq6MjELzVrDUrcuAxjEsuYgc",
+                            "pubkey": "02886e09280f528f78eb085ad2ee56bf734b80d7a509e20f68f0f89bb00646b636",
+                            "pubKeyHash": "4bfe5abad5c1a6ba7b154a1c3ac090d15c4167b3",
+                            "change address": "bcrt1plu87g9tu3ghlt7g7tzdhfy3crzj8dzwks3z054gg6s8y0f2t9r6ssl4r5l",
+                            "internalPubkey": "886e09280f528f78eb085ad2ee56bf734b80d7a509e20f68f0f89bb00646b636",
+                            "internalPubkeyBech32m": "13phqj2q0228h36cgttfwu44lwd9cp4a9p83q768slzdmqpjxkcmq4xnvm7"
+                        },
+                        {
+                            "wif": "cV4rB291TZE1hj4uvk89KYrDtFt22NRwcktgsLM9N4kxNdKhN2RP",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/2",
+                            "privateKey": "tprv8jKsnLU6JdfTKuTVFHHACtci4tMty3BYxNFi6XmEJ4VcKQZYe4GPAUwNVVjNfFxL7bnt8zYiyMtndpp8SwSwUhbe5h1nAhFJxskBmSKwzwk",
+                            "pubkey": "021b09da14ba849f71b24b75e01a77005382e66eb808d2f26fc6a840569c8fa3cb",
+                            "pubKeyHash": "64b7be4c0968d4243e32897ade8421cfd827d461",
+                            "receive address": "bcrt1pmnrxyakcnzgsnpssu5wq76ey6qth40juncnm4qj209ufvu0k333spathsq",
+                            "internalPubkey": "1b09da14ba849f71b24b75e01a77005382e66eb808d2f26fc6a840569c8fa3cb",
+                            "internalPubkeyBech32m": "1rvya5996sj0hrvjtwhsp5acq2wpwvm4cprf0ym7x4pq9d8y0509sp0mfye"
+                        },
+                        {
+                            "wif": "cPtFya7e4a1rGqfVQ8t2pwf5Bh6L8X8ayCQbi4DUCnkPUW4RYZKf",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/2",
+                            "privateKey": "tprv8jjsSZqTNGWG8tP4qYaMey85LBxsk63sirvQvb7DpnyaNjwWRCeJkiX3MgfoyH3tDtRdGabgf4mosrDfdWBrqQnwvdH9rfVTjAfgG4NRtx2",
+                            "pubkey": "021d7d1a40634ce7a1ce50de39621ec77fbba59c657de02dafca9ed509445b6253",
+                            "pubKeyHash": "767c52043ebe1253dd58c4459f3108a64bcc96db",
+                            "change address": "bcrt1p8xvwcnu5mhh85vx446h2awnlcuee33rwyz4h8502ylfkdv3j5m0sg58ts2",
+                            "internalPubkey": "1d7d1a40634ce7a1ce50de39621ec77fbba59c657de02dafca9ed509445b6253",
+                            "internalPubkeyBech32m": "1r4735srrfnn6rnjsmcuky8k807a6t8r90hszmt72nm2sj3zmvffs8tlpar"
+                        },
+                        {
+                            "wif": "cSLEdbXz8CgJq48MpTtw6VDg3X8oP162HXsVu7CPrGXGbArh7RSW",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/3",
+                            "privateKey": "tprv8jKsnLU6JdfTPGrvqTvcksBeJskeptHtZSbAfn8TTf4ChBvSHM34jTY87fke4sx4V9sshtYY6Qjdpkyz3N4aqHvz2b6BJxef6jdkvx6ijm3",
+                            "pubkey": "032a0bf70eec4ad691530e88ca07ccece01b82360060db2027d9b6ae1e70c174e7",
+                            "pubKeyHash": "7bc131bd40efec5e3adc1f3a8d56ce35c705e784",
+                            "receive address": "bcrt1pr7ukkrux40m5vql0k273avauxrz47mehjaw2mwy6xtwzuyep08kst2gqnv",
+                            "internalPubkey": "2a0bf70eec4ad691530e88ca07ccece01b82360060db2027d9b6ae1e70c174e7",
+                            "internalPubkeyBech32m": "19g9lwrhvfttfz5cw3r9q0n8vuqdcydsqvrdjqf7ek6hpuuxpwnnsfxteec"
+                        },
+                        {
+                            "wif": "cTvanmDuvFm6mPPogm6d7neaphXnbANauSL64YfLQhLePJRSgooy",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/3",
+                            "privateKey": "tprv8jjsSZqTNGWGCZNWBtRdbDH8Lvjt7LP8V62rx4TJUByMx37i7Cx9Vf57ExX5jyQxbAQKP9G3kyPtMUpvjfheLSMLsW8rDDGG8evGmT1iz6s",
+                            "pubkey": "03cd9f72d8f2f6fdc8069dadf010a99cac7e83fcbd412e2d204e35637a8d873dc1",
+                            "pubKeyHash": "f436a3995f15dd59f3a5a2d3e865eb04929d4172",
+                            "change address": "bcrt1pytf8w9h6uag8uml80rchcge2y2fah4dzk7pfwwzfwppjpj4k92fse29vwd",
+                            "internalPubkey": "cd9f72d8f2f6fdc8069dadf010a99cac7e83fcbd412e2d204e35637a8d873dc1",
+                            "internalPubkeyBech32m": "1ek0h9k8j7m7usp5a4hcpp2vu43lg8l9agyhz6gzwx43h4rv88hqswsvgsp"
+                        }
+                    ],
+                    "xprv": "tprv8fyd8jd4ztUxEwyt9JuWcU3THZJoXoLNW9PnQJfWAamH726oLWL17pzjW9yhhzm4G4YJm6vdVnZEvhrL5T58sXCFj83ZwQRXve1d2ieA1Yc",
+                    "accountWif": "cSTHjYGFi8fmNtSwPHfgCQUTBLeeiQrnKeqVGGExBEtrVq8WYZwB"
+                }
+            }
+        },
+        {
+            "testnet": {
+                "master": {
+                    "xpub": "tpubD6NzVbkrYhZ4WgTQuSiy6C8a4xfUV4WN4frCWvJZ3ShK5CgzgvR3zRW9hdwuuFWb5xKKFF12hjTMsfwNp5ezzjMherxtsgLSccftKLUXSFs",
+                    "pubKeyFingerprint": "e3343692",
+                    "wif": "cRjgqJqDsWzoMCTNuJBkhprHMUyBWxNc2bTVpTnmunzhTB28Y6FW",
+                    "xprv": "tprv8ZgxMBicQKsPdDRd1o4NgnUTVw9YKjKTVNFREQGFdAtvEiSE4XbTovtHXUGDxaDhF1644ZJPi7Ld141zzBsgUogukvwpwjdtdDnQA4JhYVv"
+                },
+                "channel-factory": {
+                    "xpub": "tpubDCffH9fK9GAd8R1g2xa71shZrapjh8XH5SzZgphoarZfwWMZxu9bJKcbgKSSntkiohVk4cGrraf4xX4m9oxcskfBKPmYXpDTwFNkBp2Y4Ss",
+                    "path": "m/86'/1'/0'",
+                    "addresses": [
+                        {
+                            "wif": "cN8Lt3imnNemxJZn4m3bFpXCZdh8rPM6iFeuW5WLMXHVp1XHDDpu",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/0",
+                            "privateKey": "tprv8jKsnLU6JdfTE6p578Ym4LMY4BGsX9UFQdDPy1xMzQVfeaENQqvNcz4q8ZoRD929WwuihKbxb1DQNCAcjRTKtzBK6tBK7EvbzzGB7SpDH6N",
+                            "pubkey": "02a35977e529d2feded672219150f8b39d77a37ec85baf399ff0052113ea3e0fa7",
+                            "pubKeyHash": "37b97dfb5ec564bbf06b956448da1884b7f90850",
+                            "receive address": "tb1pm3umrzlq0af5gj2t65egh6twrjvffds0pky8kzatwsshs2t4mrcsas2mpk",
+                            "internalPubkey": "a35977e529d2feded672219150f8b39d77a37ec85baf399ff0052113ea3e0fa7",
+                            "internalPubkeyBech32m": "15dvh0eff6tlda4njyxg4p79nn4m6xlkgtwhnn8lsq5s38637p7nseflce2"
+                        },
+                        {
+                            "wif": "cVNjBU1SNHvPnfQA5cL8reBZVgTeKoA4rzFHpgj4p52gCR6Q9Y4e",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/0",
+                            "privateKey": "tprv8jjsSZqTNGWG4WsWWB6Thu1oST3UxKDau1YC5euNCRRzw26Hr4TVmd6qPZvwFt1WgDdyvXrHQ5Pbxkh3ffu9HGZpwT69vjVz6ZNmdoektPT",
+                            "pubkey": "0208eca84219d6e24eb073cf411ab287b6121619410d4803a9d5a0fc2fece477d6",
+                            "pubKeyHash": "231dd265bd6b0e34e33c43ea412e1cbaacd7f0d7",
+                            "change address": "tb1pq47hey9d3xwmmctkpqmu2mx6h646tad345rlu9xy374mamvytxfs5989st",
+                            "internalPubkey": "08eca84219d6e24eb073cf411ab287b6121619410d4803a9d5a0fc2fece477d6",
+                            "internalPubkeyBech32m": "1prk2ssse6m3yavrneaq34v58kcfpvx2pp4yq82w45r7zlm8ywltqc4cc4n"
+                        },
+                        {
+                            "wif": "cVPBDSb9URBiG5ckfYL5wQSQp7ZChp1A4yakQvkA93uou7cpZqfG",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/1",
+                            "privateKey": "tprv8jKsnLU6JdfTGjVEnY4hBuhLctpX9TahHDoYvu58u8R4H6UM1CoXL8tB8qbjpsFbQ7CPePUHnmGNgM2hDoY5ZZ3gGzFxvCKCUciH1YuSjQH",
+                            "pubkey": "035f08734e112aaf0c43c5a387cf0e8d29002837fac13bece0e40976b10a4ae6e0",
+                            "pubKeyHash": "a74446e794693a0fd2c348c2f6fd6ff176ddc3f5",
+                            "receive address": "tb1pqs2jwh2x49gesu3xdq3p72s5wmj92ndqvuw755e2kw0knsaujcxsxjt856",
+                            "internalPubkey": "5f08734e112aaf0c43c5a387cf0e8d29002837fac13bece0e40976b10a4ae6e0",
+                            "internalPubkeyBech32m": "1tuy8xns392hscs795wru7r5d9yqzsdl6cya7ec8yp9mtzzj2umsq25qphw"
+                        },
+                        {
+                            "wif": "cP65yZfmshuawKGY2nGfAn3enQ98twHkZrC2GB5SpeQz3SbNsAw8",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/1",
+                            "privateKey": "tprv8jjsSZqTNGWG7dRdxH5kSMZAcKnVUMzNJDss6mCPTLh8u5KFEmKSSUjy9hnu1rXVqSq4X5mW8Priq4ksRTSWq6MjELzVrDUrcuAxjEsuYgc",
+                            "pubkey": "02886e09280f528f78eb085ad2ee56bf734b80d7a509e20f68f0f89bb00646b636",
+                            "pubKeyHash": "4bfe5abad5c1a6ba7b154a1c3ac090d15c4167b3",
+                            "change address": "tb1plu87g9tu3ghlt7g7tzdhfy3crzj8dzwks3z054gg6s8y0f2t9r6saxl9p9",
+                            "internalPubkey": "886e09280f528f78eb085ad2ee56bf734b80d7a509e20f68f0f89bb00646b636",
+                            "internalPubkeyBech32m": "13phqj2q0228h36cgttfwu44lwd9cp4a9p83q768slzdmqpjxkcmq4xnvm7"
+                        },
+                        {
+                            "wif": "cV4rB291TZE1hj4uvk89KYrDtFt22NRwcktgsLM9N4kxNdKhN2RP",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/2",
+                            "privateKey": "tprv8jKsnLU6JdfTKuTVFHHACtci4tMty3BYxNFi6XmEJ4VcKQZYe4GPAUwNVVjNfFxL7bnt8zYiyMtndpp8SwSwUhbe5h1nAhFJxskBmSKwzwk",
+                            "pubkey": "021b09da14ba849f71b24b75e01a77005382e66eb808d2f26fc6a840569c8fa3cb",
+                            "pubKeyHash": "64b7be4c0968d4243e32897ade8421cfd827d461",
+                            "receive address": "tb1pmnrxyakcnzgsnpssu5wq76ey6qth40juncnm4qj209ufvu0k333svyp396",
+                            "internalPubkey": "1b09da14ba849f71b24b75e01a77005382e66eb808d2f26fc6a840569c8fa3cb",
+                            "internalPubkeyBech32m": "1rvya5996sj0hrvjtwhsp5acq2wpwvm4cprf0ym7x4pq9d8y0509sp0mfye"
+                        },
+                        {
+                            "wif": "cPtFya7e4a1rGqfVQ8t2pwf5Bh6L8X8ayCQbi4DUCnkPUW4RYZKf",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/2",
+                            "privateKey": "tprv8jjsSZqTNGWG8tP4qYaMey85LBxsk63sirvQvb7DpnyaNjwWRCeJkiX3MgfoyH3tDtRdGabgf4mosrDfdWBrqQnwvdH9rfVTjAfgG4NRtx2",
+                            "pubkey": "021d7d1a40634ce7a1ce50de39621ec77fbba59c657de02dafca9ed509445b6253",
+                            "pubKeyHash": "767c52043ebe1253dd58c4459f3108a64bcc96db",
+                            "change address": "tb1p8xvwcnu5mhh85vx446h2awnlcuee33rwyz4h8502ylfkdv3j5m0s9ddd9s",
+                            "internalPubkey": "1d7d1a40634ce7a1ce50de39621ec77fbba59c657de02dafca9ed509445b6253",
+                            "internalPubkeyBech32m": "1r4735srrfnn6rnjsmcuky8k807a6t8r90hszmt72nm2sj3zmvffs8tlpar"
+                        },
+                        {
+                            "wif": "cSLEdbXz8CgJq48MpTtw6VDg3X8oP162HXsVu7CPrGXGbArh7RSW",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/3",
+                            "privateKey": "tprv8jKsnLU6JdfTPGrvqTvcksBeJskeptHtZSbAfn8TTf4ChBvSHM34jTY87fke4sx4V9sshtYY6Qjdpkyz3N4aqHvz2b6BJxef6jdkvx6ijm3",
+                            "pubkey": "032a0bf70eec4ad691530e88ca07ccece01b82360060db2027d9b6ae1e70c174e7",
+                            "pubKeyHash": "7bc131bd40efec5e3adc1f3a8d56ce35c705e784",
+                            "receive address": "tb1pr7ukkrux40m5vql0k273avauxrz47mehjaw2mwy6xtwzuyep08ksxnzxxk",
+                            "internalPubkey": "2a0bf70eec4ad691530e88ca07ccece01b82360060db2027d9b6ae1e70c174e7",
+                            "internalPubkeyBech32m": "19g9lwrhvfttfz5cw3r9q0n8vuqdcydsqvrdjqf7ek6hpuuxpwnnsfxteec"
+                        },
+                        {
+                            "wif": "cTvanmDuvFm6mPPogm6d7neaphXnbANauSL64YfLQhLePJRSgooy",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/3",
+                            "privateKey": "tprv8jjsSZqTNGWGCZNWBtRdbDH8Lvjt7LP8V62rx4TJUByMx37i7Cx9Vf57ExX5jyQxbAQKP9G3kyPtMUpvjfheLSMLsW8rDDGG8evGmT1iz6s",
+                            "pubkey": "03cd9f72d8f2f6fdc8069dadf010a99cac7e83fcbd412e2d204e35637a8d873dc1",
+                            "pubKeyHash": "f436a3995f15dd59f3a5a2d3e865eb04929d4172",
+                            "change address": "tb1pytf8w9h6uag8uml80rchcge2y2fah4dzk7pfwwzfwppjpj4k92fs5n02mh",
+                            "internalPubkey": "cd9f72d8f2f6fdc8069dadf010a99cac7e83fcbd412e2d204e35637a8d873dc1",
+                            "internalPubkeyBech32m": "1ek0h9k8j7m7usp5a4hcpp2vu43lg8l9agyhz6gzwx43h4rv88hqswsvgsp"
+                        }
+                    ],
+                    "xprv": "tprv8fyd8jd4ztUxEwyt9JuWcU3THZJoXoLNW9PnQJfWAamH726oLWL17pzjW9yhhzm4G4YJm6vdVnZEvhrL5T58sXCFj83ZwQRXve1d2ieA1Yc",
+                    "accountWif": "cSTHjYGFi8fmNtSwPHfgCQUTBLeeiQrnKeqVGGExBEtrVq8WYZwB"
+                }
+            }
+        },
+        {
+            "mainnet": {
+                "master": {
+                    "xpub": "xpub661MyMwAqRbcEtGZTFjstGoCjqZpVg1JX3FuANFQhXwRKv2HchZxqyqKTbs8NkZMJ3nQdfVAAddKBVSmRDom7HuQbGDbC9gD2f5UZKCuHsZ",
+                    "pubKeyFingerprint": "e3343692",
+                    "wif": "L1NhNPqNSTJYBkz7WtNdLWMDjFfmrWGuxZK2i3LGQgLhCS1KuqhE",
+                    "xprv": "xprv9s21ZrQH143K2QC6MECsX8rUBojL6DHT9pLJMyqo9CQST7h95AFiJBWqcJ6ZxCqNsZZH4TgdYkkpYCUFryXjfkRKEHjXHNuqi82yiSo4JyU"
+                },
+                "channel-factory": {
+                    "xpub": "xpub6Bw9JPYKEQ5vm6HodkzW4FhCqjTJhhyseUEubuEhsoTU1bgDWH5hWjzDRZoGJSX2jXZP2btP7KqMkR8exKydsvPD9AJwJmzVkaRpVVYceLP",
+                    "path": "m/86'/0'/0'",
+                    "addresses": [
+                        {
+                            "wif": "L476FUbJA1vAWD661m9hoRH1Ea8uAQ12Yx5iuU34RWaQgyRTyosL",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/0",
+                            "privateKey": "xprvA2peuwPBQ79P5cePzxKpygzPuLG11rY7WWrtJPhk3F83q2Q2k4JA6er6XvJYPfCxxbGZbfe9ApvrNsA7zYC8sCn1csENCAVLXDTN7imXQri",
+                            "pubkey": "031ccf2563f1b9fad04b869db5c5496b987c5b7bf0453433b448a3691ee761a225",
+                            "pubKeyHash": "6ac91a469803693df502e703a40663e16fbba5f1",
+                            "receive address": "bc1pd45gua87cgqvx9qyuc9f0sgk7h24w8gsxupd03v7dek5sezzmftq7qe0kp",
+                            "internalPubkey": "1ccf2563f1b9fad04b869db5c5496b987c5b7bf0453433b448a3691ee761a225",
+                            "internalPubkeyBech32m": "1rn8j2cl3h8adqjuxnk6u2jttnp79k7lsg56r8dzg5d53aemp5gjsd3lcgf"
+                        },
+                        {
+                            "wif": "L4MSSrvFb8Wtvn34inzq5LdP6a6QoQCjPkJ1f6ZYPFCAVBscoYpV",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/0",
+                            "privateKey": "xprvA3f9NGsyVz2xcLQqJJPx7VgSYPPajkaFLLCZVjZcPRLPFCq4iTbt3mAxuwBZ4gQJHEVNECKonbNo17VhuV25MuD3LQ1mSjWYRnnrTS5dNr8",
+                            "pubkey": "0270e8cdb8c9fe8bd358210ed4a1da13802eb6db03d4c9e38e004c9b26cb86651b",
+                            "pubKeyHash": "b5c30f20f48086e7054ab9008b70136d9ffaa1e8",
+                            "change address": "bc1pf8kllqhf9frvzeq4aajg50kj4getv092hmecd3j5jqdu078yj73qpaxm8p",
+                            "internalPubkey": "70e8cdb8c9fe8bd358210ed4a1da13802eb6db03d4c9e38e004c9b26cb86651b",
+                            "internalPubkeyBech32m": "1wr5vmwxfl69axkpppm22rksnsqhtdkcr6ny78rsqfjdjdjuxv5dsuvqew0"
+                        },
+                        {
+                            "wif": "L538S5c32DwiGJDJJSDxTcmSQevXtKrhwskGyZ4p8TwjtjJgtJzA",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/1",
+                            "privateKey": "xprvA2peuwPBQ79P9q37QAKyaQ2CZNvB9Hdd3aM67H4LPzvDDsCbAJyZSKmMjDH7mCs9FXLTfJa7vodiBVEQveCj5jMehC7HShSkKCxPe9EzNEC",
+                            "pubkey": "0248b54500c57ed58a7ff1793dfe7da86f4a063fd2ccc7ea52fc71f44f8e1f1d4b",
+                            "pubKeyHash": "8d5bf02b193c89a52b2c85e566de15bee87d855c",
+                            "receive address": "bc1pjh50jr2pg6tpmmjm949jqjf4wyegfncjxq360wkq6lrhquzq50tq2zwtw0",
+                            "internalPubkey": "48b54500c57ed58a7ff1793dfe7da86f4a063fd2ccc7ea52fc71f44f8e1f1d4b",
+                            "internalPubkeyBech32m": "1fz652qx90m2c5ll30y7luldgda9qv07jenr755huw86ylrslr49sumsv5r"
+                        },
+                        {
+                            "wif": "KwY1boUG2mZ2722Dvd2Zo54T6jDh29L1oSC6ykodWJb6BsqXfzc9",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/1",
+                            "privateKey": "xprvA3f9NGsyVz2xfCccsnRa14MiMyJWCaGzxtGRRc6a5U3vjurCDZgLNuMHj46diP7S53oUN6QmeTpAv7hijAk47DwYZhnXoPdFX9rxomzNu3o",
+                            "pubkey": "03a3946440693bc7f97105131c19e4a3df73a68b66c3c9f67386145d9b6fbdf81c",
+                            "pubKeyHash": "d6aa8ee2c27ac3acb67dd08d433b81e4833dbc7d",
+                            "change address": "bc1px48r9m5m7ezrqxvd67pmuhu7ucq9hj9xu780a23mlpvzfzghmhyqqdknjl",
+                            "internalPubkey": "a3946440693bc7f97105131c19e4a3df73a68b66c3c9f67386145d9b6fbdf81c",
+                            "internalPubkeyBech32m": "15w2xgsrf80rljug9zvwpne9rmae6dzmxc0ylvuuxz3wekmaalqwq5q4jch"
+                        },
+                        {
+                            "wif": "L1J7RPwgsvMDZxgrnmKpYLogFEf5hCeE1MR5A74NeCPLebZdW5JR",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/2",
+                            "privateKey": "xprvA2peuwPBQ79PB6DZnyVGbTsc6TJ5qXJPt4tUQM6gj5Gio3ShDwuff31S9DRo1J1QF7UHWxyCesanknnT9eNYDtVqzFEUNcB7dXeFrYdXP2Q",
+                            "pubkey": "0259d2fbdccb28cdff60a66b175007b299b08fcf370ab95d2095f9ff1b406fa0f6",
+                            "pubKeyHash": "941238fdc43aca6a6cb1c2ff829739b5cc972c46",
+                            "receive address": "bc1p43ftqqhzfj5l8qurya6kh4mufxqn2x7xwwhtlqte7umdu6da8ycq52reyy",
+                            "internalPubkey": "59d2fbdccb28cdff60a66b175007b299b08fcf370ab95d2095f9ff1b406fa0f6",
+                            "internalPubkeyBech32m": "1t8f0hhxt9rxl7c9xdvt4qpajnxcglnehp2u46gy4l8l3ksr05rmqgd5mat"
+                        },
+                        {
+                            "wif": "Kxn5nFENzDeftrPPSeBvkNHsPRcCiMKmQfgB3cBRPg85LUiq8Amn",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/2",
+                            "privateKey": "xprvA3f9NGsyVz2xhFUaVU2rFEhkpKS8kZYbPGZhJBKzvKT8YDkssdLKVXtJfpAcASFn2tBjxHVvwsT8f8mjqTYGizfeNUHjzrXkJKzJHnUgLof",
+                            "pubkey": "037d920fc5d6de282e3b48d73f9a28a8e6d8054d162e6c70a56eb24a77efda4869",
+                            "pubKeyHash": "a8627d007fba0104adf672221e652feb4228fd98",
+                            "change address": "bc1p345h96yvpz6kgd6qce8kl8lrga7vg4wg3le9yjnapjtmyfa9v08q0tn2dk",
+                            "internalPubkey": "7d920fc5d6de282e3b48d73f9a28a8e6d8054d162e6c70a56eb24a77efda4869",
+                            "internalPubkeyBech32m": "10kfql3wkmc5zuw6g6ule529gumvq2ngk9ek8pftwkf980m76fp5ssutzlf"
+                        },
+                        {
+                            "wif": "L3edUPu1MmJMd54UjPnBeYqHXWWkvwQh78itvjNbCLf4wSzxAqY1",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/3",
+                            "privateKey": "xprvA2peuwPBQ79PDwGb12hmiCd61PM4cJ919i5ZEQeyhjtLWtbUAo1Kg1YRcGhRsfpg1e7Q35yUR1s99ZTtsXLNMTAuJNMx15u6Vw6H3F3rHc9",
+                            "pubkey": "02e09dc08b28d6342ac6591a3cf8559ab6b6b8c28fd56078248be4543f65253a79",
+                            "pubKeyHash": "a933978eddfff8163966e65f9c2b1d1c5b105d96",
+                            "receive address": "bc1px98f74pygm62ptrsjr4g2mfle0tqcu5reth7sfpfd0gjvezfjp8q79d4yg",
+                            "internalPubkey": "e09dc08b28d6342ac6591a3cf8559ab6b6b8c28fd56078248be4543f65253a79",
+                            "internalPubkeyBech32m": "1uzwupzeg6c6z43jerg70s4v6k6mt3s5064s8sfytu32r7ef98fus40jl7s"
+                        },
+                        {
+                            "wif": "KxBaThx9hciBch4Q8UJRuNLGEeDooovER3JgBN8vUSWtDB7hSYwT",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/3",
+                            "privateKey": "xprvA3f9NGsyVz2xmrPtR92J3NXUemRufGk9n8839hcEQZzxVLfDdAiPgohxJdncWxDjcTaNupK5GRsicWcLKjXDJ97QLdwya7UK3okfRFfX9dk",
+                            "pubkey": "025c3b02c2f0ab06de207e0ce82cf5f199e3cc7b0adb95194011b943bf0498a04c",
+                            "pubKeyHash": "19191187516f944da20bab2f9bd292ffc0d9cf5f",
+                            "change address": "bc1pwjyun05gdw647vsk992u0cz0n8nknuu7q4z2dk2w8w4uf9nyuz2q3v2qdg",
+                            "internalPubkey": "5c3b02c2f0ab06de207e0ce82cf5f199e3cc7b0adb95194011b943bf0498a04c",
+                            "internalPubkeyBech32m": "1tsas9shs4vrdugr7pn5zea03n83uc7c2mw23jsq3h9pm7pyc5pxqges80a"
+                        }
+                    ],
+                    "xprv": "xprv9xwntt1RQ2XdYcDLXjTVh7kUHhcpJFG2HFKJoWq6KTvV8oM4xjmSxwfjaGkBP9Y2k4fa8LLCQkkARfAuuNXMnyqCUMQCpsYHPcMW3JwnHpi",
+                    "accountWif": "L3nCYdBUBg1JVmqsP6GSB4oMMg5Y4SHxbQoZQUFXEEj4Z62rau9e"
+                }
+            }
+        }
+    ],
+    "miner": [
+        {
+            "mnemonic": "become divide grief real garden stick lecture proof aisle relax mixture flower"
+        },
+        {
+            "regtest": {
+                "master": {
+                    "xpub": "tpubD6NzVbkrYhZ4YarsdebPeABMNhVogNo7MWsKaUMaE1whp6Wgw72eaAew6e44HGbp8RTx4Wx6FrU1q18r8BtzAtQsCsLj9eQubkuFnZTuMEU",
+                    "pubKeyFingerprint": "e609c768",
+                    "wif": "cNJf72pih3X4XEweugGghunKjNt92AwiNCsfJZMTKzbLYrpBfp5m",
+                    "xprv": "tprv8ZgxMBicQKsPf7q5jzvoEkXEofysX3cCnDGYHxKGok9JycFvJiD4Pg34vWGU2LvHi2k6kDgDdPgPTcKcEeoFWvhCsvNx2Vj9mbYbp5KdjEW"
+                },
+                "channel-factory": {
+                    "xpub": "tpubDCJgbKsbwjFWmA7CKpb7Uh1tTeYHzMSVoxv17qVrKd9EpdrZ4gheFYMyknpbRTzgP8uhkhHP4p3mM7FbXPsfQfg1JnrE2zZVE2VMN7YMLaC",
+                    "path": "m/86'/1'/0'",
+                    "addresses": [
+                        {
+                            "wif": "cTxg984jax2PTy5PdLvM5Ta7dNu8BYCt7Gm76w3SJHWGK1RxvkKa",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/0",
+                            "privateKey": "tprv8k4YtFR1kQ2mJPB94msqXXyPWiNQuSoAUjRSGx9Bes84C3VJf4sXxFZ3jyqozTZiQbj5vKdgBNptqf8fgumke36fpzPyGzgvwo8Fjxu3QeR",
+                            "pubkey": "035c3ff0d03f220b71ebe4a9c33cb7734af8b797ab011aa47585f191097a352fb3",
+                            "pubKeyHash": "b2dd585ef61519342870bf55d14cea0a2da05d43",
+                            "receive address": "bcrt1p8mae5m5kxm49lp5raedu3k833ug35w43l58wlphpv6mcucx6syysl9v4n4",
+                            "internalPubkey": "5c3ff0d03f220b71ebe4a9c33cb7734af8b797ab011aa47585f191097a352fb3",
+                            "internalPubkeyBech32m": "1tsllp5plyg9hr6ly48pnedmnftut09atqyd2gav97xgsj73497es8ehv70"
+                        },
+                        {
+                            "wif": "cRVmYUYGGxBoKPewpj27BrHtnPTkk9HxW1FDBu25VLiC5sUwAXMo",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/0",
+                            "privateKey": "tprv8kxoYJzq3Mc8gPHrFL8EnZqM9djopz2VBm57fUzWAv91NxbGpjPgPo7KxQ7bkW5BLVcb2tGptJe2gmV82y4HAXXFcjPPismXuRFQ1mbRSD1",
+                            "pubkey": "027317fd7bb27cd5296a509603ccb11a7297807696e1d7f2f22f7e74036836288b",
+                            "pubKeyHash": "5e10ba51dbb14d1ffd48d7bce2851687bc06c1f1",
+                            "change address": "bcrt1pfyfasm0enmmxqmk7j25xnxy5umfqsq6qsf9k8wv26rx6tf2gl57qyw74s4",
+                            "internalPubkey": "7317fd7bb27cd5296a509603ccb11a7297807696e1d7f2f22f7e74036836288b",
+                            "internalPubkeyBech32m": "1wvtl67aj0n2jj6jsjcpuevg6w2tcqa5ku8tl9u300e6qx6pk9z9s08pus5"
+                        },
+                        {
+                            "wif": "cUKLwJYciWSYAZYRqRwacCZm6WKaakhaYSCaeRL2e1vJry4z243G",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/1",
+                            "privateKey": "tprv8k4YtFR1kQ2mNvV737Dbpxk7ktgksyxvLCvpaHC9bS3yDH1xm1p4kUCMstu7QR5cF9UyQnKBBfahWmKuaC3X5WZM1cbSPqYd5Dnv3aoQjs8",
+                            "pubkey": "032d27b9e770c9db87360eef9798d31fbbf57553611e67875ba56d6ec3d4543e3d",
+                            "pubKeyHash": "b3f9ab51b596bfce37f7c6d6b413d85e954bb48d",
+                            "receive address": "bcrt1prklk2m5fqfgat8ek67n3kn2j8xk6w8um58qzz2epg9hcvm86w0lq635uk9",
+                            "internalPubkey": "2d27b9e770c9db87360eef9798d31fbbf57553611e67875ba56d6ec3d4543e3d",
+                            "internalPubkeyBech32m": "195nmnemse8dcwdswa7te35clh06h25mprencwka9d4hv84z58c7sv2nwug"
+                        },
+                        {
+                            "wif": "cWA16WYPrVeSPzQwKksXMQsQzBvW2pH8REPKQE9iHTAvboPVXb75",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/1",
+                            "privateKey": "tprv8kxoYJzq3Mc8jvFTV1AtAbTpCFubC8YcXYbpFK5FqPxPLUkwpMrHwXNE8dD55Jk1LUKL67EbU1nhsoEp3wLnd7sGXzfyPWwCB4atDBefk6r",
+                            "pubkey": "0388a650f25fbbc382088591f09d70c675d24d56cf7846fdd10a4977f4f622e37b",
+                            "pubKeyHash": "38a4566c9937a5b2e1e223064c870c8871d6ccca",
+                            "change address": "bcrt1ph3w9zclummh2hs82yjafm8f3hhp8xgnv7cl2430k7gks0hkreugqkdm66r",
+                            "internalPubkey": "88a650f25fbbc382088591f09d70c675d24d56cf7846fdd10a4977f4f622e37b",
+                            "internalPubkeyBech32m": "13zn9pujlh0pcyzy9j8cf6uxxwhfy64k00pr0m5g2f9mlfa3zudast25zey"
+                        },
+                        {
+                            "wif": "cSv1nHRuu1agCrEGMFNKvou4sU8qQ8vtMVbEGQMt6r46ExLAjyQR",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/2",
+                            "privateKey": "tprv8k4YtFR1kQ2mPJkocuQUJuN23uc8eGgyu27mzaYacfRp5sodRregunGAfBjC5Rmx4R1SUWktyP3cGmd3nZqRssfT8K1EA191nLXdy2i1NA6",
+                            "pubkey": "027a30dcda6cea416baedb5daaef0f2fc4d7d4c2b6ec25a44b5761a6d1e0639476",
+                            "pubKeyHash": "58148ba2619adec7253f3a51ee4e0678f533f7da",
+                            "receive address": "bcrt1plcwegghaw850v33qwcgkk22d9jmaxfd2ecsc6lknqald56e4ec4scxlazr",
+                            "internalPubkey": "7a30dcda6cea416baedb5daaef0f2fc4d7d4c2b6ec25a44b5761a6d1e0639476",
+                            "internalPubkeyBech32m": "10gcdeknvafqkhtkmtk4w7re0cntafs4kasj6gj6hvxndrcrrj3mq2rssx2"
+                        },
+                        {
+                            "wif": "cVLoBjkehQZQkxENEprtVxjWvxZC3etfffoAX2yXZ5pk2KCJpk3a",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/2",
+                            "privateKey": "tprv8kxoYJzq3Mc8nUNYJFg2pYMPkpaE91e8mQuCWJw6NNomZsvWXLCUD6GhSF9QouT441CjZiJPMucLQGuzpTHKz3R2j5k9TgMewpkWDvrDqCF",
+                            "pubkey": "038769256409b1fef33b1036d17cc5dd584eeb44c6ca3e1b487c52369a2956ad12",
+                            "pubKeyHash": "dcb7b0c9e9e388798e4ee1c7265cf0e6a398d323",
+                            "change address": "bcrt1ppxyw33f2626weysqhupekzphpwx4gt5dshjmjj7qsfqg73m574hqs272tr",
+                            "internalPubkey": "8769256409b1fef33b1036d17cc5dd584eeb44c6ca3e1b487c52369a2956ad12",
+                            "internalPubkeyBech32m": "1sa5j2eqfk8l0xwcsxmghe3watp8wk3xxeglpkjru2gmf522k45fqefc2uw"
+                        },
+                        {
+                            "wif": "cQapJSpdTZbCLaygyqDKrU5t7uvUQpJPwD9UJ7YDHFkWHZz4BRLW",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/3",
+                            "privateKey": "tprv8k4YtFR1kQ2mU29Z7T9pYjNF9P9aeKd9vxjjYdB6fcMp9r6MCWpfuJah4YcREgoKo5e23osZi6BerC2L21NBq6oyS4KMp5kr6nCLKhegFaD",
+                            "pubkey": "03979001eae0ae813ec7ceefcc8a1070e39246e00bc01c6de451ec8ab492279295",
+                            "pubKeyHash": "20b51181bd12d64a935663ba54e5a37554f939b8",
+                            "receive address": "bcrt1pn4p8p8e9ztdxkqtjer3s0m260wjm9j8mmdq4mpe8aaxuddpsnmdszel9p0",
+                            "internalPubkey": "979001eae0ae813ec7ceefcc8a1070e39246e00bc01c6de451ec8ab492279295",
+                            "internalPubkeyBech32m": "1j7gqr6hq46qna37walxg5yrsuwfydcqtcqwxmez3aj9tfy38j22sjpg4jg"
+                        },
+                        {
+                            "wif": "cQhrM5aLqtYcRU9kqu1VRNbeWyNhpS932WrqzxM2Nq26X7zAghwU",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/3",
+                            "privateKey": "tprv8kxoYJzq3Mc8q6mHEFnbue3D2pLs64UD8wPNBr34aUHe1WifLBbknbcMpgvxqanUwCT5p9gCcRfxiRCKqMgSpsvjkrGUYWBWKZ7f9YxwHTE",
+                            "pubkey": "02fbb9c18170c661112314e56fb616d2f3c906cc42a2639c3172f52029a1e2fe32",
+                            "pubKeyHash": "dfb85f07a5652bc685155a6a60051041ae3f9f00",
+                            "change address": "bcrt1p4xynrruz6k98ytltct3cmrq0tdsds4hy2pcs4ldq26wkaw6t6tkqfqqhc0",
+                            "internalPubkey": "fbb9c18170c661112314e56fb616d2f3c906cc42a2639c3172f52029a1e2fe32",
+                            "internalPubkeyBech32m": "1lwuurqtsces3zgc5u4hmv9kj70ysdnzz5f3ecvtj75szng0zlceq63unml"
+                        }
+                    ],
+                    "xprv": "tprv8fceSuqMoMZqsh5QSAvX5HMmtd2Mq2FbEfKDqKTYuMLqz9bnSHt453k7ag669bhQcSAkQpbsuR8s67rqG7iS2JFKvsn2EuJVuvLhWZ9gRfX",
+                    "accountWif": "cQ9pwvEjVQuDY9nbngNJz2B7VvwpxptnwGF5qGDv2bQKnWSWA3UV"
+                }
+            }
+        },
+        {
+            "testnet": {
+                "master": {
+                    "xpub": "tpubD6NzVbkrYhZ4YarsdebPeABMNhVogNo7MWsKaUMaE1whp6Wgw72eaAew6e44HGbp8RTx4Wx6FrU1q18r8BtzAtQsCsLj9eQubkuFnZTuMEU",
+                    "pubKeyFingerprint": "e609c768",
+                    "wif": "cNJf72pih3X4XEweugGghunKjNt92AwiNCsfJZMTKzbLYrpBfp5m",
+                    "xprv": "tprv8ZgxMBicQKsPf7q5jzvoEkXEofysX3cCnDGYHxKGok9JycFvJiD4Pg34vWGU2LvHi2k6kDgDdPgPTcKcEeoFWvhCsvNx2Vj9mbYbp5KdjEW"
+                },
+                "channel-factory": {
+                    "xpub": "tpubDCJgbKsbwjFWmA7CKpb7Uh1tTeYHzMSVoxv17qVrKd9EpdrZ4gheFYMyknpbRTzgP8uhkhHP4p3mM7FbXPsfQfg1JnrE2zZVE2VMN7YMLaC",
+                    "path": "m/86'/1'/0'",
+                    "addresses": [
+                        {
+                            "wif": "cTxg984jax2PTy5PdLvM5Ta7dNu8BYCt7Gm76w3SJHWGK1RxvkKa",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/0",
+                            "privateKey": "tprv8k4YtFR1kQ2mJPB94msqXXyPWiNQuSoAUjRSGx9Bes84C3VJf4sXxFZ3jyqozTZiQbj5vKdgBNptqf8fgumke36fpzPyGzgvwo8Fjxu3QeR",
+                            "pubkey": "035c3ff0d03f220b71ebe4a9c33cb7734af8b797ab011aa47585f191097a352fb3",
+                            "pubKeyHash": "b2dd585ef61519342870bf55d14cea0a2da05d43",
+                            "receive address": "tb1p8mae5m5kxm49lp5raedu3k833ug35w43l58wlphpv6mcucx6syysjuxnx0",
+                            "internalPubkey": "5c3ff0d03f220b71ebe4a9c33cb7734af8b797ab011aa47585f191097a352fb3",
+                            "internalPubkeyBech32m": "1tsllp5plyg9hr6ly48pnedmnftut09atqyd2gav97xgsj73497es8ehv70"
+                        },
+                        {
+                            "wif": "cRVmYUYGGxBoKPewpj27BrHtnPTkk9HxW1FDBu25VLiC5sUwAXMo",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/0",
+                            "privateKey": "tprv8kxoYJzq3Mc8gPHrFL8EnZqM9djopz2VBm57fUzWAv91NxbGpjPgPo7KxQ7bkW5BLVcb2tGptJe2gmV82y4HAXXFcjPPismXuRFQ1mbRSD1",
+                            "pubkey": "027317fd7bb27cd5296a509603ccb11a7297807696e1d7f2f22f7e74036836288b",
+                            "pubKeyHash": "5e10ba51dbb14d1ffd48d7bce2851687bc06c1f1",
+                            "change address": "tb1pfyfasm0enmmxqmk7j25xnxy5umfqsq6qsf9k8wv26rx6tf2gl57qfh5n90",
+                            "internalPubkey": "7317fd7bb27cd5296a509603ccb11a7297807696e1d7f2f22f7e74036836288b",
+                            "internalPubkeyBech32m": "1wvtl67aj0n2jj6jsjcpuevg6w2tcqa5ku8tl9u300e6qx6pk9z9s08pus5"
+                        },
+                        {
+                            "wif": "cUKLwJYciWSYAZYRqRwacCZm6WKaakhaYSCaeRL2e1vJry4z243G",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/1",
+                            "privateKey": "tprv8k4YtFR1kQ2mNvV737Dbpxk7ktgksyxvLCvpaHC9bS3yDH1xm1p4kUCMstu7QR5cF9UyQnKBBfahWmKuaC3X5WZM1cbSPqYd5Dnv3aoQjs8",
+                            "pubkey": "032d27b9e770c9db87360eef9798d31fbbf57553611e67875ba56d6ec3d4543e3d",
+                            "pubKeyHash": "b3f9ab51b596bfce37f7c6d6b413d85e954bb48d",
+                            "receive address": "tb1prklk2m5fqfgat8ek67n3kn2j8xk6w8um58qzz2epg9hcvm86w0lqhg76rl",
+                            "internalPubkey": "2d27b9e770c9db87360eef9798d31fbbf57553611e67875ba56d6ec3d4543e3d",
+                            "internalPubkeyBech32m": "195nmnemse8dcwdswa7te35clh06h25mprencwka9d4hv84z58c7sv2nwug"
+                        },
+                        {
+                            "wif": "cWA16WYPrVeSPzQwKksXMQsQzBvW2pH8REPKQE9iHTAvboPVXb75",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/1",
+                            "privateKey": "tprv8kxoYJzq3Mc8jvFTV1AtAbTpCFubC8YcXYbpFK5FqPxPLUkwpMrHwXNE8dD55Jk1LUKL67EbU1nhsoEp3wLnd7sGXzfyPWwCB4atDBefk6r",
+                            "pubkey": "0388a650f25fbbc382088591f09d70c675d24d56cf7846fdd10a4977f4f622e37b",
+                            "pubKeyHash": "38a4566c9937a5b2e1e223064c870c8871d6ccca",
+                            "change address": "tb1ph3w9zclummh2hs82yjafm8f3hhp8xgnv7cl2430k7gks0hkreugqm53u0e",
+                            "internalPubkey": "88a650f25fbbc382088591f09d70c675d24d56cf7846fdd10a4977f4f622e37b",
+                            "internalPubkeyBech32m": "13zn9pujlh0pcyzy9j8cf6uxxwhfy64k00pr0m5g2f9mlfa3zudast25zey"
+                        },
+                        {
+                            "wif": "cSv1nHRuu1agCrEGMFNKvou4sU8qQ8vtMVbEGQMt6r46ExLAjyQR",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/2",
+                            "privateKey": "tprv8k4YtFR1kQ2mPJkocuQUJuN23uc8eGgyu27mzaYacfRp5sodRregunGAfBjC5Rmx4R1SUWktyP3cGmd3nZqRssfT8K1EA191nLXdy2i1NA6",
+                            "pubkey": "027a30dcda6cea416baedb5daaef0f2fc4d7d4c2b6ec25a44b5761a6d1e0639476",
+                            "pubKeyHash": "58148ba2619adec7253f3a51ee4e0678f533f7da",
+                            "receive address": "tb1plcwegghaw850v33qwcgkk22d9jmaxfd2ecsc6lknqald56e4ec4s4l4mhe",
+                            "internalPubkey": "7a30dcda6cea416baedb5daaef0f2fc4d7d4c2b6ec25a44b5761a6d1e0639476",
+                            "internalPubkeyBech32m": "10gcdeknvafqkhtkmtk4w7re0cntafs4kasj6gj6hvxndrcrrj3mq2rssx2"
+                        },
+                        {
+                            "wif": "cVLoBjkehQZQkxENEprtVxjWvxZC3etfffoAX2yXZ5pk2KCJpk3a",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/2",
+                            "privateKey": "tprv8kxoYJzq3Mc8nUNYJFg2pYMPkpaE91e8mQuCWJw6NNomZsvWXLCUD6GhSF9QouT441CjZiJPMucLQGuzpTHKz3R2j5k9TgMewpkWDvrDqCF",
+                            "pubkey": "038769256409b1fef33b1036d17cc5dd584eeb44c6ca3e1b487c52369a2956ad12",
+                            "pubKeyHash": "dcb7b0c9e9e388798e4ee1c7265cf0e6a398d323",
+                            "change address": "tb1ppxyw33f2626weysqhupekzphpwx4gt5dshjmjj7qsfqg73m574hqan5v7e",
+                            "internalPubkey": "8769256409b1fef33b1036d17cc5dd584eeb44c6ca3e1b487c52369a2956ad12",
+                            "internalPubkeyBech32m": "1sa5j2eqfk8l0xwcsxmghe3watp8wk3xxeglpkjru2gmf522k45fqefc2uw"
+                        },
+                        {
+                            "wif": "cQapJSpdTZbCLaygyqDKrU5t7uvUQpJPwD9UJ7YDHFkWHZz4BRLW",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/0/3",
+                            "privateKey": "tprv8k4YtFR1kQ2mU29Z7T9pYjNF9P9aeKd9vxjjYdB6fcMp9r6MCWpfuJah4YcREgoKo5e23osZi6BerC2L21NBq6oyS4KMp5kr6nCLKhegFaD",
+                            "pubkey": "03979001eae0ae813ec7ceefcc8a1070e39246e00bc01c6de451ec8ab492279295",
+                            "pubKeyHash": "20b51181bd12d64a935663ba54e5a37554f939b8",
+                            "receive address": "tb1pn4p8p8e9ztdxkqtjer3s0m260wjm9j8mmdq4mpe8aaxuddpsnmds0q4r54",
+                            "internalPubkey": "979001eae0ae813ec7ceefcc8a1070e39246e00bc01c6de451ec8ab492279295",
+                            "internalPubkeyBech32m": "1j7gqr6hq46qna37walxg5yrsuwfydcqtcqwxmez3aj9tfy38j22sjpg4jg"
+                        },
+                        {
+                            "wif": "cQhrM5aLqtYcRU9kqu1VRNbeWyNhpS932WrqzxM2Nq26X7zAghwU",
+                            "outputType": "p2tr",
+                            "path": "m/86'/1'/0'/1/3",
+                            "privateKey": "tprv8kxoYJzq3Mc8q6mHEFnbue3D2pLs64UD8wPNBr34aUHe1WifLBbknbcMpgvxqanUwCT5p9gCcRfxiRCKqMgSpsvjkrGUYWBWKZ7f9YxwHTE",
+                            "pubkey": "02fbb9c18170c661112314e56fb616d2f3c906cc42a2639c3172f52029a1e2fe32",
+                            "pubKeyHash": "dfb85f07a5652bc685155a6a60051041ae3f9f00",
+                            "change address": "tb1p4xynrruz6k98ytltct3cmrq0tdsds4hy2pcs4ldq26wkaw6t6tkqye23d4",
+                            "internalPubkey": "fbb9c18170c661112314e56fb616d2f3c906cc42a2639c3172f52029a1e2fe32",
+                            "internalPubkeyBech32m": "1lwuurqtsces3zgc5u4hmv9kj70ysdnzz5f3ecvtj75szng0zlceq63unml"
+                        }
+                    ],
+                    "xprv": "tprv8fceSuqMoMZqsh5QSAvX5HMmtd2Mq2FbEfKDqKTYuMLqz9bnSHt453k7ag669bhQcSAkQpbsuR8s67rqG7iS2JFKvsn2EuJVuvLhWZ9gRfX",
+                    "accountWif": "cQ9pwvEjVQuDY9nbngNJz2B7VvwpxptnwGF5qGDv2bQKnWSWA3UV"
+                }
+            }
+        },
+        {
+            "mainnet": {
+                "master": {
+                    "xpub": "xpub661MyMwAqRbcGng2BTcJSEqz3aQ9gzJ3otH2DvJRt7Bp4oqyrtBZRiz6rbyGkmeaLWw3SwSDikdy8peEjL3kHSxa9GbRU7kg1oJr2Spkp9D",
+                    "pubKeyFingerprint": "e609c768",
+                    "wif": "Kwwfe7psFypoMoUPXGTZLbHG79ajMir2JAjCC8twpswLJ7npSJkM",
+                    "xprv": "xprv9s21ZrQH143K4JbZ5S5J56uFVYZfHXaCSfMRRXtpKmeqC1WqKLsJsvfd1L6p1yXyLbDKk84TU36azkms7STJhsRcMHAeN916rVoBNSuPX5h"
+                },
+                "channel-factory": {
+                    "xpub": "xpub6CJcGsZvYzRWXHSGP9BcKRz1QZLG74HwcyqwvtSBpzUp23pMtaSFjPDPjGghKWiRfxoufBD1qumBv9Qdc53UGpD35ZLWm8cnu3w7XCFqDuH",
+                    "path": "m/86'/0'/0'",
+                    "addresses": [
+                        {
+                            "wif": "KxTKXHEwSYY9Zfjpi3nN6547waDd2i3bTpqSoq17Ys7tFRWmZn5k",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/0",
+                            "privateKey": "xprvA3W9wsBvx5gSqrFShBUBUKXpnPzjNgUDfTsVQawQVWMrMJwsiR57UNYRXhep29at9JmADmR6pZRTwkWM9dg3JCWqALHezfRL1oto412oQFG",
+                            "pubkey": "03bb8c8d7b487bb2626551c344cc8b013ad9705269072c7f3ea6e7739d484f3f9f",
+                            "pubKeyHash": "ce5f3c1605f9fc4aeba083d3948674c2c038f636",
+                            "receive address": "bc1padsr7a4608ew4jt4rv0824lh7typmht3svfq23r37dj6spc4dyvq5s3ryz",
+                            "internalPubkey": "bb8c8d7b487bb2626551c344cc8b013ad9705269072c7f3ea6e7739d484f3f9f",
+                            "internalPubkeyBech32m": "1hwxg676g0wexye23cdzvezcp8tvhq5nfquk8704xuaee6jz0870sav98ue"
+                        },
+                        {
+                            "wif": "L3TLxTcw6KDnq9iZ12gDL7NskSEe31K3mQ5nkNE8PmiahsUdNmee",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/0",
+                            "privateKey": "xprvA35JdzcarNkqptvoQMFa5LLZWHxmGkBozAGn8GAGpDrHUymEYk5utFoEprUiyGLERFnPbPEnzRNt6H8N1pdYLfcpGKS4GLtHJhMfLnppNVx",
+                            "pubkey": "03a6a12db9268443f65a9d731c35e471e4723ab8cf525789ba6b05278dbb011b8c",
+                            "pubKeyHash": "50e76beab28e7923f257863fe2ebf9e4fbd8a9b9",
+                            "change address": "bc1pu86qqmr04nvc0a493agkld9s88xf9ew5ulkk7nrzsqusqqf07h4qp38uu6",
+                            "internalPubkey": "a6a12db9268443f65a9d731c35e471e4723ab8cf525789ba6b05278dbb011b8c",
+                            "internalPubkeyBech32m": "156sjmwfxs3plvk5awvwrter3u3er4wx02ftcnwntq5ncmwcprwxqnknkuc"
+                        },
+                        {
+                            "wif": "L5RHPTyQs4K1b7azdSGwaaWgTnJYGyJEv16SnoL3PRmEAKiJ4AGm",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/1",
+                            "privateKey": "xprvA3W9wsBvx5gSuC9kZkDJKznch5mzRHtGVPmgDnyTRXftE8tf9iE12Sij69VHzVhVRyhAcAhjzMhDCgKv1YenBWvMW9itVSespLd5LzEi8tm",
+                            "pubkey": "03152aee5fe49508240385324dd59e89afd2409cb4930054c374d86a7d85dbc8c7",
+                            "pubKeyHash": "7a5ac0af814fae281a61e0be0952560eccdc8167",
+                            "receive address": "bc1ppawua2l80y4x7ayjaqpadp2y330zafallgh3xt58ma4ad8cjjr6sm2vgdz",
+                            "internalPubkey": "152aee5fe49508240385324dd59e89afd2409cb4930054c374d86a7d85dbc8c7",
+                            "internalPubkeyBech32m": "1z54wuhlyj5yzgqu9xfxat85f4lfyp895jvq9fsm5mp48mpwmerrs58qkc2"
+                        },
+                        {
+                            "wif": "L4MxaiQ3mhKfHMUrpjMgAMpPRopr8bs3oTte2mNi4YUXxV9a3ZPs",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/1",
+                            "privateKey": "xprvA35JdzcarNkqrWqxsuUmVfRrxbZXK9yNSXe4tU6MJCP6oWiweDmeAtA2FycbYrbUB8Zi2wdUhFTius1ZJGP8R6J3jSnhLcCmrq199mGi7pn",
+                            "pubkey": "028eb7c5b4902389ef639ff3bec9454178514ef3afefb38cf213b29942c3128faa",
+                            "pubKeyHash": "63ccaa9c4c784555b1adbf10f46024bdaeb3a0df",
+                            "change address": "bc1pkpspjyuwx8uzz3j4xzgav8qh0yfegrgprqjs0kuse2apqfy6xqqqdk4lxz",
+                            "internalPubkey": "8eb7c5b4902389ef639ff3bec9454178514ef3afefb38cf213b29942c3128faa",
+                            "internalPubkeyBech32m": "136mutdysywy77cul7wlvj32p0pg5aua0a7eceusnk2v59scj374qjnwmny"
+                        },
+                        {
+                            "wif": "L29LjSL7vhcXzdu1NJTw8bmqj2mp25UMEp4qSh5WhMkux15jeXhx",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/2",
+                            "privateKey": "xprvA3W9wsBvx5gSwcJnFpKHiHNoXNeYaZo5LVH4qdfsJFbMtHQkJBzUBudCUFm1Y8DucdvUd9C5k4FPvXM5jhvjSjfC8hRct648zGgpEiwobpu",
+                            "pubkey": "038f26676850271a23a8ceb2ea23561c02b3dc9ed6caef47b9446103038ad7e0cd",
+                            "pubKeyHash": "55c3b70e852f0ab8e42ad533e15d7f7320626fb6",
+                            "receive address": "bc1pllpr3yexa3z594sp44fxxmtr6fcwzkjkf35ynl59zdemzhzlku2q0qxaan",
+                            "internalPubkey": "8f26676850271a23a8ceb2ea23561c02b3dc9ed6caef47b9446103038ad7e0cd",
+                            "internalPubkeyBech32m": "13unxw6zsyudz82xwkt4zx4suq2eae8kketh50w2yvyps8zkhurxs8d97qz"
+                        },
+                        {
+                            "wif": "L4uAyxCqxozvhxCjMg6Eo9SxEqJPiGdGaMFqnKjtE9LiFUehmBsU",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/2",
+                            "privateKey": "xprvA35JdzcarNkquWe2pGrcUw9VD7cNFmVGd9hZJqoGakoMGomWYrWk2DvmChjUuSEN91nmZ8aNZJMvaAQc5AV3iNMKPymCa7RrdUFrk4aoMNT",
+                            "pubkey": "02a817d8882d947f8ba0d3bd2e0cd159608a681f96ac53020ba5dfb98ad3732917",
+                            "pubKeyHash": "fff4b8d4f038e7af556888bbc46a95fbc42b94e1",
+                            "change address": "bc1prskand07zcypy95hvuhc2ay5ghln5j3wdpqlydafyugy5mjhjt6q5l4esz",
+                            "internalPubkey": "a817d8882d947f8ba0d3bd2e0cd159608a681f96ac53020ba5dfb98ad3732917",
+                            "internalPubkeyBech32m": "14qta3zpdj3lchgxnh5hqe52evz9xs8uk43fsyza9m7uc45mn9ytslfwthk"
+                        },
+                        {
+                            "wif": "L4XVSkTVfqDquTZE2rmmVm7LNLndcsNY7ezqkk16a1vYuo8UX6i5",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/0/3",
+                            "privateKey": "xprvA3W9wsBvx5gSzcmXzLYr3stMhebk165P89GXkFAWrQFQ7HRZvVXCfPea2ymPTwH7Dc3x2x72viAxGae6SjqbXXpmGykCVgMaLWL69r2zNan",
+                            "pubkey": "0352ef1f20057d9625df75af2e8864d5faab75b050dfebc58a5c38f6c79002c0b7",
+                            "pubKeyHash": "9909a7a07a543ce6fb7a7b1423fcc4bfe35b68a1",
+                            "receive address": "bc1pa6gyv22hzkv85t726pj9ryyuytdpfkfukqz7s3net257xwvt6ctshmna2s",
+                            "internalPubkey": "52ef1f20057d9625df75af2e8864d5faab75b050dfebc58a5c38f6c79002c0b7",
+                            "internalPubkeyBech32m": "12th37gq90ktzthm44uhgsex4l24htvzsml4utzju8rmv0yqzczmss6yhjk"
+                        },
+                        {
+                            "wif": "Kz9Mjt2evLbNXb9u1k1zEyrMUJ7A3QDhRSi3Nm3p71xvpP4SobAL",
+                            "outputType": "p2tr",
+                            "path": "m/86'/0'/0'/1/3",
+                            "privateKey": "xprvA35JdzcarNkqvnpN6zWastWvHUfdpRiAVMm6Jgwtbi3ASzxFHscegTBdPYsgCxmSjWtw6CUnAKAdyH5Xm9Rv8CB7zGDaZV93KqJmRLJYLy4",
+                            "pubkey": "02736c2c7eff25082f393a2bbcbcd3f508f67b4a408eaf92eb095de12fb401a8b3",
+                            "pubKeyHash": "57134c91cadc7183cf860446d4ad8d8a4cf709c7",
+                            "change address": "bc1pvju8cz6vhjs7n320vaf4smqg67xthermqjnn46zgz94tsdpk5hcq04qjr0",
+                            "internalPubkey": "736c2c7eff25082f393a2bbcbcd3f508f67b4a408eaf92eb095de12fb401a8b3",
+                            "internalPubkeyBech32m": "1wdkzclhly5yz7wf69w7te5l4prm8kjjq36he96cfthsjldqp4zeswx3a46"
+                        }
+                    ],
+                    "xprv": "xprv9yKFsN32icsDJoMoH7ebxJ3GrXVmhba6FkvM8W2aGewq9FVDM381BatusyYEN33k15EcWDKhZxVKsqhhsAzVjZrkUKLTgHLkLC1oXMi5iuE",
+                    "accountWif": "KwiXLCssGfahwMp9TJ1MNn41x9kct29n7vSSx8irHGxSdqaoNoHv"
+                }
+            }
+        }
+    ]
+}

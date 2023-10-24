@@ -1,0 +1,6 @@
+#! /bin/bash
+
+if [[ ! -e sparrow ]]; then
+    mkdir sparrow
+fi
+/opt/sparrow/bin/Sparrow -n testnet -d ./sparrow
